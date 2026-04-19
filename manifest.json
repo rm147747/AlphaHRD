@@ -71,6 +71,8 @@
     "stratified_ci": [0.737, 1.023],
     "stratified_p": 0.091,
     "concordant_am_revel_hr": 0.563,
+    "concordant_am_revel_n": 166,
+    "concordant_am_revel_events": 34,
     "concordant_am_revel_ci": [0.390, 0.814],
     "concordant_am_revel_p": 0.0022,
     "am_within_germline_hr": 0.646,
