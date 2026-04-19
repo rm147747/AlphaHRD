@@ -1,0 +1,25 @@
+{
+  "classification_source": "AlphaMissense pre-computed predictions",
+  "source_version": "Zenodo doi:10.5281/zenodo.8208688 (Cheng et al., Science 2023)",
+  "download_url": "https://storage.googleapis.com/dm_alphamissense",
+  "classification_method": "Pre-assigned categorical labels from AlphaMissense TSV file (column 4: am_class)",
+  "classification_rule": "NOT derived from thresholds applied in this pipeline. The am_class values (benign, ambiguous, pathogenic) come directly from the AlphaMissense model output, which was calibrated by Cheng et al. to achieve 90% precision on ClinVar pathogenic variants.",
+  "thresholds_for_reference_only": {
+    "benign": "am_pathogenicity < 0.34",
+    "ambiguous": "0.34 <= am_pathogenicity <= 0.564",
+    "pathogenic": "am_pathogenicity > 0.564",
+    "note": "These thresholds correspond to the categorical labels but are NOT applied by this pipeline — the labels are used as-is from the source file."
+  },
+  "columns_used": {
+    "am_pathogenicity": "Continuous score (0-1) from AlphaMissense TSV column 3",
+    "am_class": "Categorical label from AlphaMissense TSV column 4 (benign/ambiguous/pathogenic)"
+  },
+  "patient_level_derivation": {
+    "has_am_pathogenic": "True if patient has >= 1 variant with am_class == 'pathogenic'",
+    "defined_in": "Notebook1, Cell 22 (patient_hrr_summary.csv)"
+  },
+  "gene_set": "25 HRR/DDR genes (see Table 1 in manuscript)",
+  "variant_type": "Missense only (single amino acid substitutions)",
+  "match_rate": "99.4% of queried variants had AlphaMissense annotations",
+  "intended_use": "Research/benchmark only. NOT for clinical variant reclassification or treatment decisions."
+}

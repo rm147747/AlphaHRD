@@ -1,0 +1,1884 @@
+patient_id,tumor,has_am_pathogenic,os_time,os_event,study,has_path
+TCGA-02-2466,Glioblastoma,1,16.79981589,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-02-2486,Glioblastoma,1,20.31758556,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-06-0145,Glioblastoma,0,2.334220995,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-06-0646,Glioblastoma,1,5.753361607,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-06-0649,Glioblastoma,0,2.104086531,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-06-0686,Glioblastoma,1,14.20258408,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-06-0744,Glioblastoma,0,46.88167801,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-06-1084,Glioblastoma,0,23.93398429,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-06-1802,Glioblastoma,1,15.32038005,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-06-1805,Glioblastoma,0,33.89551895,0.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-06-2561,Glioblastoma,0,17.65460105,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-06-5416,Glioblastoma,1,6.706775816,0.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-06-5417,Glioblastoma,1,5.095834566,0.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-06-5858,Glioblastoma,1,6.147877832,0.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-06-6388,Glioblastoma,0,5.227339974,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-06-A5U1,Glioblastoma,0,1.873952066,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-12-0657,Glioblastoma,0,0.098629056,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-12-0778,Glioblastoma,0,14.92586383,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-12-0821,Glioblastoma,1,10.61906171,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-12-3653,Glioblastoma,0,14.5313476,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-14-1396,Glioblastoma,1,1.117795969,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-14-1453,Glioblastoma,1,1.150672321,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-14-1456,Glioblastoma,1,40.96393464,0.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-14-1794,Glioblastoma,0,0.986290561,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-14-1795,Glioblastoma,0,1.972581122,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-14-2554,Glioblastoma,0,17.49021929,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-15-1446,Glioblastoma,0,19.10116054,0.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-16-0848,Glioblastoma,0,17.58884834,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-19-1386,Glioblastoma,0,9.073873163,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-19-1389,Glioblastoma,0,4.635565638,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-19-1787,Glioblastoma,1,12.65739554,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-19-1790,Glioblastoma,0,5.062958214,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-19-2621,Glioblastoma,1,1.084919617,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-19-5950,Glioblastoma,0,17.19433212,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-19-5953,Glioblastoma,0,4.734194694,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-19-5956,Glioblastoma,1,22.4874248,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-26-1799,Glioblastoma,1,9.369760331,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-26-6174,Glioblastoma,0,2.334220995,0.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-27-2521,Glioblastoma,0,16.76693954,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-27-2527,Glioblastoma,1,14.39984219,1.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-28-1751,Glioblastoma,0,7.627313673,0.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-28-1753,Glioblastoma,0,1.216425026,0.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-28-5211,Glioblastoma,1,11.76973403,0.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-4W-AA9T,Glioblastoma,1,25.57780189,0.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-74-6575,Glioblastoma,1,20.9093599,0.0,gbm_tcga_pan_can_atlas_2018,1
+TCGA-76-4927,Glioblastoma,0,17.58884834,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-76-6191,Glioblastoma,0,16.70118684,1.0,gbm_tcga_pan_can_atlas_2018,0
+TCGA-04-1331,Ovarian,0,43.92280633,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-04-1335,Ovarian,0,1.808199362,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-04-1341,Ovarian,1,1.084919617,0.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-04-1356,Ovarian,0,49.28165171,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-04-1361,Ovarian,0,32.51471217,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-04-1655,Ovarian,1,45.36936582,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-09-1674,Ovarian,0,8.54785153,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-09-2044,Ovarian,1,6.115001479,0.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-09-2051,Ovarian,1,63.08971957,0.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-10-0930,Ovarian,0,34.19140612,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-13-0726,Ovarian,0,31.19965809,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-13-0760,Ovarian,0,11.53959957,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-13-0794,Ovarian,0,63.08971957,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-13-0800,Ovarian,1,87.48397278,0.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-13-0883,Ovarian,0,68.94171023,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-13-0884,Ovarian,1,107.1769077,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-13-0888,Ovarian,1,92.41542558,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-13-0889,Ovarian,0,95.1441628,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-13-0920,Ovarian,0,48.78850643,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-13-1499,Ovarian,0,115.0672321,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-13-1501,Ovarian,0,43.19952658,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-13-1507,Ovarian,0,65.52256962,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-20-0991,Ovarian,0,26.20245258,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-20-1684,Ovarian,0,19.10116054,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-23-1030,Ovarian,0,29.12844791,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-23-1114,Ovarian,1,68.67869941,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-23-1809,Ovarian,0,0.526021633,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-23-2643,Ovarian,1,4.701318342,0.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-24-0980,Ovarian,0,7.660190025,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-24-1103,Ovarian,0,54.11447546,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-24-1425,Ovarian,0,5.950619719,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-24-1466,Ovarian,1,45.13923135,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-24-1562,Ovarian,1,45.50087122,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-24-1616,Ovarian,1,38.23519742,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-24-1850,Ovarian,0,5.523227143,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-24-2024,Ovarian,0,58.15826676,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-24-2254,Ovarian,1,57.07334714,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-24-2260,Ovarian,0,36.16398724,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-24-2261,Ovarian,0,0.789032449,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-24-2293,Ovarian,1,16.63543413,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-25-1315,Ovarian,1,52.04326528,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-25-1320,Ovarian,0,37.97218661,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-25-2392,Ovarian,1,1.019166913,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-25-2398,Ovarian,1,45.00772594,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-25-2399,Ovarian,0,19.98882204,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-25-2409,Ovarian,1,26.99148503,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-29-1691,Ovarian,0,48.3282375,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-29-1693,Ovarian,0,101.7851859,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-29-1696,Ovarian,0,33.92839531,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-29-1705,Ovarian,0,18.24637538,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-29-1707,Ovarian,1,41.98310156,0.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-29-1711,Ovarian,0,34.6187987,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-29-1761,Ovarian,0,17.35871388,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-29-1777,Ovarian,0,12.29575566,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-29-1783,Ovarian,1,7.232797449,0.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-29-2429,Ovarian,0,13.84094421,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-30-1718,Ovarian,0,51.91175987,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-3P-A9WA,Ovarian,0,13.80806786,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-59-2349,Ovarian,1,80.11966992,1.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-59-2351,Ovarian,1,116.1192754,0.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-59-2363,Ovarian,0,5.424598087,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-61-1737,Ovarian,0,44.84334418,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-61-1903,Ovarian,0,13.01903541,0.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-61-2096,Ovarian,1,58.38840122,0.0,ov_tcga_pan_can_atlas_2018,1
+TCGA-61-2613,Ovarian,0,31.06815268,1.0,ov_tcga_pan_can_atlas_2018,0
+TCGA-05-4382,Lung Adeno,0,19.95594569,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-05-4390,Lung Adeno,1,37.0187724,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-05-4396,Lung Adeno,1,9.961534668,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-05-4397,Lung Adeno,0,24.03261334,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-05-4402,Lung Adeno,0,8.021829898,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-05-4415,Lung Adeno,0,2.991748036,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-05-4417,Lung Adeno,1,14.95874018,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-05-4424,Lung Adeno,1,30.01610941,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-05-4427,Lung Adeno,1,26.00519446,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-05-4432,Lung Adeno,0,25.0189039,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-35-4122,Lung Adeno,1,7.397179209,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-38-4628,Lung Adeno,0,49.05151724,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-38-4631,Lung Adeno,1,11.63822862,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-44-2656,Lung Adeno,0,46.98030707,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-44-3398,Lung Adeno,0,38.23519742,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-44-5644,Lung Adeno,0,28.37229181,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-44-6776,Lung Adeno,1,86.00453694,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-44-6777,Lung Adeno,0,32.44895946,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-44-7660,Lung Adeno,0,19.46280041,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-44-7667,Lung Adeno,0,36.06535819,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-44-7670,Lung Adeno,0,28.9969425,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-44-7671,Lung Adeno,0,29.22707696,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-44-7672,Lung Adeno,0,23.63809712,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-44-8119,Lung Adeno,0,9.369760331,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-44-A479,Lung Adeno,0,15.97790709,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-44-A4SS,Lung Adeno,0,13.6436861,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-44-A4SU,Lung Adeno,0,13.44642798,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-49-4507,Lung Adeno,1,8.810862347,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-49-4514,Lung Adeno,0,55.88979847,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-49-6742,Lung Adeno,0,16.0436598,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-49-6743,Lung Adeno,0,53.29256666,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-49-6767,Lung Adeno,0,22.25729033,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-49-AAR0,Lung Adeno,0,156.6558175,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-49-AAR2,Lung Adeno,1,73.11700694,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-49-AAR4,Lung Adeno,1,28.89831344,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-49-AAR9,Lung Adeno,1,8.54785153,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-49-AARE,Lung Adeno,1,40.40503666,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-49-AARN,Lung Adeno,0,37.31465957,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-49-AARO,Lung Adeno,0,123.5822073,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-49-AARQ,Lung Adeno,1,221.3236019,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-4B-A93V,Lung Adeno,0,9.862905612,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-50-5045,Lung Adeno,1,71.47318934,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-50-5049,Lung Adeno,0,101.7194332,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-50-5930,Lung Adeno,1,9.271131275,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-50-5939,Lung Adeno,0,15.12312194,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-50-5946,Lung Adeno,0,53.16106125,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-50-6590,Lung Adeno,0,42.34474143,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-50-6593,Lung Adeno,0,11.04645429,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-50-6594,Lung Adeno,1,12.16425026,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-50-6673,Lung Adeno,1,0.723279745,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-50-8460,Lung Adeno,0,27.25449584,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-53-7624,Lung Adeno,0,34.29003518,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-53-7626,Lung Adeno,1,30.54213105,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-55-1594,Lung Adeno,0,38.7283427,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-1595,Lung Adeno,1,48.62412467,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-55-6642,Lung Adeno,1,80.51418615,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-55-6969,Lung Adeno,0,40.73380018,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-6972,Lung Adeno,0,53.65420653,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-7281,Lung Adeno,1,28.66817898,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-55-7283,Lung Adeno,0,20.02169839,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-7570,Lung Adeno,1,27.09011408,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-55-7907,Lung Adeno,0,11.27658875,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-7994,Lung Adeno,1,19.82444028,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-55-7995,Lung Adeno,0,29.22707696,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-8089,Lung Adeno,0,23.07919913,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-8097,Lung Adeno,0,15.64914357,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-8506,Lung Adeno,1,0.361639872,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-55-8507,Lung Adeno,0,13.74231515,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-8508,Lung Adeno,0,20.28470921,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-8616,Lung Adeno,0,1.578064898,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-A48Y,Lung Adeno,0,20.71210179,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-A491,Lung Adeno,0,20.58059638,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-55-A494,Lung Adeno,1,15.81352533,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-55-A4DF,Lung Adeno,1,20.18608015,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-55-A4DG,Lung Adeno,0,19.98882204,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-62-8398,Lung Adeno,0,14.59710031,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-62-A46O,Lung Adeno,0,47.80221587,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-62-A46P,Lung Adeno,0,19.52855311,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-62-A46S,Lung Adeno,0,54.34460992,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-62-A46Y,Lung Adeno,0,13.61080975,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-64-1677,Lung Adeno,0,20.64634908,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-64-1679,Lung Adeno,0,81.79636388,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-64-1680,Lung Adeno,0,37.0187724,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-64-1681,Lung Adeno,0,38.36670283,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-64-5775,Lung Adeno,0,2.038333827,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-64-5779,Lung Adeno,0,28.40516816,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-67-6215,Lung Adeno,1,5.720485255,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-69-7973,Lung Adeno,1,7.561560969,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-69-7974,Lung Adeno,1,6.049248775,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-69-7978,Lung Adeno,0,4.405431173,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-69-7980,Lung Adeno,0,13.51218069,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-69-8253,Lung Adeno,0,14.00532597,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-69-8254,Lung Adeno,0,13.44642798,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-69-8255,Lung Adeno,0,4.241049413,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-73-4662,Lung Adeno,0,82.68402538,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-73-4666,Lung Adeno,0,26.30108163,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-73-A9RS,Lung Adeno,1,11.17795969,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-75-7027,Lung Adeno,0,100.5687609,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-78-7150,Lung Adeno,0,21.89565046,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-78-7154,Lung Adeno,1,19.49567676,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-78-7155,Lung Adeno,0,38.49820824,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-78-7156,Lung Adeno,0,32.08731959,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-78-7159,Lung Adeno,0,64.89791893,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-78-7161,Lung Adeno,1,9.567018444,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-78-7535,Lung Adeno,0,31.19965809,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-78-7539,Lung Adeno,1,26.00519446,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-78-7542,Lung Adeno,1,10.55330901,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-78-8662,Lung Adeno,1,110.4974192,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-80-5608,Lung Adeno,1,93.10582898,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-80-5611,Lung Adeno,0,85.31413354,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-83-5908,Lung Adeno,1,27.09011408,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-86-7713,Lung Adeno,0,38.03793931,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-86-8054,Lung Adeno,1,37.74205214,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-86-8073,Lung Adeno,0,24.32850051,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-86-8585,Lung Adeno,1,11.60535227,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-86-8672,Lung Adeno,1,0.624650689,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-86-A4JF,Lung Adeno,0,24.22987145,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-86-A4P7,Lung Adeno,1,13.6436861,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-91-6829,Lung Adeno,0,41.35845087,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-91-6840,Lung Adeno,0,12.23000296,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-91-6848,Lung Adeno,0,7.364302857,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-91-7771,Lung Adeno,0,16.1751652,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-91-8499,Lung Adeno,0,1.183548673,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-91-A4BC,Lung Adeno,1,1.44655949,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-93-8067,Lung Adeno,0,6.115001479,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-93-A4JN,Lung Adeno,0,23.60522077,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-95-7043,Lung Adeno,1,16.53680508,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-95-7562,Lung Adeno,0,2.860242628,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-95-7567,Lung Adeno,1,18.67376796,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-95-8494,Lung Adeno,0,2.761613571,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-95-A4VN,Lung Adeno,0,18.18062268,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-97-7554,Lung Adeno,1,25.47917283,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-97-8172,Lung Adeno,0,17.91761186,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-97-8176,Lung Adeno,0,15.38613276,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-97-A4LX,Lung Adeno,1,20.18608015,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-97-A4M3,Lung Adeno,0,17.7532301,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-97-A4M6,Lung Adeno,0,18.67376796,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-99-7458,Lung Adeno,0,24.55863497,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-99-8032,Lung Adeno,0,1.44655949,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-J2-A4AD,Lung Adeno,0,18.08199362,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-L9-A443,Lung Adeno,0,6.345135944,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-L9-A444,Lung Adeno,1,10.09304008,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-L9-A8F4,Lung Adeno,1,15.64914357,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-MN-A4N4,Lung Adeno,1,38.62971365,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-MN-A4N5,Lung Adeno,0,2.761613571,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-MP-A4T8,Lung Adeno,1,5.293092678,1.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-MP-A4TA,Lung Adeno,0,31.23253444,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-MP-A4TF,Lung Adeno,0,11.04645429,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-MP-A4TH,Lung Adeno,0,24.36137686,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-MP-A4TI,Lung Adeno,0,14.10395503,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-MP-A4TK,Lung Adeno,0,19.13403689,1.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-NJ-A4YF,Lung Adeno,0,71.04579676,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-NJ-A4YP,Lung Adeno,0,1.643817602,0.0,luad_tcga_pan_can_atlas_2018,0
+TCGA-NJ-A4YQ,Lung Adeno,1,47.07893612,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-NJ-A55O,Lung Adeno,1,0.427392577,0.0,luad_tcga_pan_can_atlas_2018,1
+TCGA-18-3406,Lung Squamous,1,12.19712661,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-18-3407,Lung Squamous,1,4.471183877,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-18-3416,Lung Squamous,0,31.98869054,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-18-3417,Lung Squamous,1,36.06535819,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-21-1079,Lung Squamous,0,31.72567972,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-21-5782,Lung Squamous,0,31.62705066,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-21-5784,Lung Squamous,1,41.68721439,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-21-5786,Lung Squamous,1,33.92839531,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-21-5787,Lung Squamous,0,10.81631982,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-22-4599,Lung Squamous,0,38.16944472,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-22-4604,Lung Squamous,0,13.11766446,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-22-4613,Lung Squamous,0,11.76973403,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-22-5473,Lung Squamous,0,63.54998849,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-22-5477,Lung Squamous,0,44.25156985,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-22-5480,Lung Squamous,1,71.34168393,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-33-4533,Lung Squamous,1,133.7410001,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-33-4566,Lung Squamous,0,173.8172732,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-33-4583,Lung Squamous,1,151.2640957,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-33-4586,Lung Squamous,0,14.07107867,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-33-4587,Lung Squamous,0,54.44323898,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-33-AAS8,Lung Squamous,1,36.62425617,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-33-AASI,Lung Squamous,0,44.18581714,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-33-AASL,Lung Squamous,0,27.15586679,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-34-2600,Lung Squamous,0,61.61028372,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-34-2609,Lung Squamous,0,31.26541079,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-34-5231,Lung Squamous,0,65.22668245,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-34-5232,Lung Squamous,1,81.23746589,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-34-5927,Lung Squamous,0,44.74471513,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-34-7107,Lung Squamous,0,1.117795969,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-37-3789,Lung Squamous,0,0.427392577,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-37-3792,Lung Squamous,0,0.394516225,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-37-4130,Lung Squamous,1,8.120458954,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-37-4135,Lung Squamous,0,6.805404872,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-37-4141,Lung Squamous,0,0.394516225,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-37-A5EL,Lung Squamous,1,37.57767038,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-39-5016,Lung Squamous,0,126.5739554,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-39-5028,Lung Squamous,1,1.709570306,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-39-5034,Lung Squamous,0,36.39412171,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-39-5037,Lung Squamous,0,55.56103495,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-39-5039,Lung Squamous,1,17.88473551,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-43-2576,Lung Squamous,0,40.20777855,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-43-3920,Lung Squamous,1,33.1064865,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-43-6770,Lung Squamous,0,21.46825788,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-43-8118,Lung Squamous,1,2.925995332,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-43-A474,Lung Squamous,1,11.60535227,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-43-A475,Lung Squamous,0,9.731400204,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-43-A56V,Lung Squamous,0,12.03274485,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-46-3765,Lung Squamous,0,13.31492258,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-46-3768,Lung Squamous,0,9.83002926,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-46-3769,Lung Squamous,0,4.438307525,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-52-7809,Lung Squamous,0,5.457474439,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-52-7810,Lung Squamous,1,30.34487293,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-56-7730,Lung Squamous,0,6.509517704,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-56-8083,Lung Squamous,0,4.931452806,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-56-8304,Lung Squamous,1,3.484893316,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-56-8305,Lung Squamous,1,3.452016964,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-56-8308,Lung Squamous,0,16.99707401,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-56-8309,Lung Squamous,0,14.07107867,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-56-8504,Lung Squamous,0,16.76693954,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-56-8625,Lung Squamous,0,10.35605089,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-56-8626,Lung Squamous,1,9.928658316,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-56-8628,Lung Squamous,1,20.25183286,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-56-A49D,Lung Squamous,1,20.94223625,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-56-A5DS,Lung Squamous,0,0.263010816,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-58-8393,Lung Squamous,1,34.78318046,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-60-2698,Lung Squamous,1,10.22454548,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-60-2709,Lung Squamous,0,49.47890982,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-60-2714,Lung Squamous,0,50.33369497,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-60-2719,Lung Squamous,0,42.6406286,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-60-2720,Lung Squamous,0,3.189006148,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-60-2722,Lung Squamous,0,29.85172765,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-63-7020,Lung Squamous,0,70.1252589,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-63-7021,Lung Squamous,0,70.42114607,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-63-A5MM,Lung Squamous,0,14.99161653,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-63-A5MW,Lung Squamous,0,53.88434099,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-66-2744,Lung Squamous,1,0.986290561,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-66-2754,Lung Squamous,0,2.005457474,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-66-2756,Lung Squamous,0,0.986290561,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-66-2767,Lung Squamous,0,2.005457474,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-66-2768,Lung Squamous,1,2.005457474,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-66-2770,Lung Squamous,1,23.01344643,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-66-2771,Lung Squamous,0,19.00253148,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-66-2773,Lung Squamous,0,3.024624388,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-66-2781,Lung Squamous,0,3.978038597,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-66-2785,Lung Squamous,1,1.972581122,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-66-2786,Lung Squamous,0,25.97231811,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-66-2787,Lung Squamous,0,40.01052043,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-66-2793,Lung Squamous,0,10.06016372,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-66-2800,Lung Squamous,0,49.05151724,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-68-7757,Lung Squamous,1,6.93691028,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-68-8251,Lung Squamous,0,13.34779893,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-68-A59J,Lung Squamous,1,14.72860571,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-77-6843,Lung Squamous,0,73.11700694,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-77-6845,Lung Squamous,1,23.27645724,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-77-7140,Lung Squamous,1,20.77785449,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-77-7141,Lung Squamous,0,0.493145281,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-77-8136,Lung Squamous,0,39.08998258,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-77-8140,Lung Squamous,1,11.53959957,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-77-A5G3,Lung Squamous,1,150.2449288,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-77-A5GF,Lung Squamous,0,27.61613571,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-85-6561,Lung Squamous,1,40.2406549,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-85-7697,Lung Squamous,0,34.94756222,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-85-7699,Lung Squamous,0,32.90922839,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-85-8049,Lung Squamous,0,19.03540783,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-85-8070,Lung Squamous,0,31.56129796,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-85-8071,Lung Squamous,0,26.79422691,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-85-8287,Lung Squamous,1,0.756156097,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-85-8481,Lung Squamous,0,7.758819081,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-85-8580,Lung Squamous,0,36.59137982,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-85-A4CL,Lung Squamous,1,30.27912023,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-85-A4JC,Lung Squamous,0,19.85731663,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-85-A50Z,Lung Squamous,0,16.20804156,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-90-7769,Lung Squamous,0,11.76973403,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-90-7964,Lung Squamous,1,14.07107867,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-90-A4ED,Lung Squamous,0,20.21895651,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-90-A4EE,Lung Squamous,0,22.6189302,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-92-8063,Lung Squamous,0,4.010914949,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-92-8064,Lung Squamous,0,5.260216326,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-94-7033,Lung Squamous,0,21.04086531,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-94-7943,Lung Squamous,0,18.37788079,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-94-8035,Lung Squamous,1,4.010914949,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-94-8490,Lung Squamous,0,5.030081862,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-94-A4VJ,Lung Squamous,0,14.13683138,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-96-7544,Lung Squamous,0,71.01292041,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-98-8021,Lung Squamous,0,30.80514186,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-98-A538,Lung Squamous,0,27.15586679,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-L3-A524,Lung Squamous,1,16.1094125,1.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-MF-A522,Lung Squamous,0,11.83548673,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-NC-A5HE,Lung Squamous,0,76.79915837,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-NC-A5HG,Lung Squamous,0,64.53627905,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-NC-A5HI,Lung Squamous,1,57.30348161,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-NC-A5HJ,Lung Squamous,0,13.74231515,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-NC-A5HN,Lung Squamous,1,49.28165171,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-NC-A5HQ,Lung Squamous,0,14.72860571,1.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-NC-A5HR,Lung Squamous,0,40.89818194,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-NC-A5HT,Lung Squamous,0,26.43258704,0.0,lusc_tcga_pan_can_atlas_2018,0
+TCGA-NK-A7XE,Lung Squamous,1,0.427392577,0.0,lusc_tcga_pan_can_atlas_2018,1
+TCGA-2F-A9KO,Bladder,1,24.1312424,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-2F-A9KR,Bladder,0,104.6454285,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-2F-A9KT,Bladder,0,108.9522307,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-2F-A9KW,Bladder,0,8.350593418,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-4Z-AA7R,Bladder,1,17.16145577,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-4Z-AA7W,Bladder,1,27.61613571,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-4Z-AA80,Bladder,1,0.624650689,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-4Z-AA81,Bladder,0,41.75296709,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-4Z-AA86,Bladder,0,10.22454548,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-4Z-AA89,Bladder,0,33.82976625,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-5N-A9KI,Bladder,1,2.498602755,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-5N-A9KM,Bladder,0,17.42446658,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-BL-A0C8,Bladder,0,40.07627314,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-BT-A0YX,Bladder,0,13.15054082,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-BT-A20J,Bladder,0,19.03540783,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-BT-A20O,Bladder,0,12.16425026,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-BT-A20T,Bladder,0,14.89298747,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-BT-A20U,Bladder,0,14.95874018,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-BT-A20V,Bladder,0,5.062958214,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-BT-A20W,Bladder,0,8.350593418,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-BT-A2LB,Bladder,0,16.1751652,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-BT-A3PH,Bladder,0,4.66844199,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-BT-A3PK,Bladder,1,9.961534668,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-BT-A42C,Bladder,0,28.70105533,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-C4-A0EZ,Bladder,1,8.975244107,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-CF-A1HR,Bladder,0,12.78890094,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-CF-A1HS,Bladder,0,12.55876648,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-CF-A3MG,Bladder,1,12.1313739,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-CF-A47V,Bladder,1,12.46013742,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-CF-A47X,Bladder,0,12.62451918,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-CF-A9FL,Bladder,0,18.5751389,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-CU-A0YR,Bladder,1,15.12312194,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-DK-A1A3,Bladder,1,21.86277411,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-DK-A1A5,Bladder,0,2.136962883,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-A1AC,Bladder,0,130.8807575,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-A1AE,Bladder,0,16.14228885,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-A1AG,Bladder,0,15.61626722,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-A2HX,Bladder,0,46.6844199,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-A2I1,Bladder,1,17.95048821,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-DK-A2I2,Bladder,1,7.791695434,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-DK-A2I4,Bladder,0,142.7819969,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-A3IM,Bladder,0,8.153335306,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-A3IT,Bladder,0,21.30387612,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-A3IV,Bladder,0,9.6656475,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-A3WW,Bladder,1,20.81073084,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-DK-A3X1,Bladder,0,66.04859125,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-A6AV,Bladder,0,64.17463918,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-A6AW,Bladder,1,53.29256666,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-DK-A6B5,Bladder,1,50.69533485,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-DK-A6B6,Bladder,0,36.65713253,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-AA6L,Bladder,0,38.23519742,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-AA6S,Bladder,0,166.0255778,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-AA6U,Bladder,0,19.00253148,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-AA6W,Bladder,0,13.6436861,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-AA6X,Bladder,1,15.3532564,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-DK-AA71,Bladder,0,13.6436861,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-AA76,Bladder,0,12.03274485,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-DK-AA77,Bladder,1,20.31758556,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-E5-A4TZ,Bladder,1,15.3532564,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-E7-A541,Bladder,1,25.57780189,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-E7-A5KE,Bladder,0,0.558897985,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-E7-A5KF,Bladder,0,0.657527041,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-E7-A6MD,Bladder,1,4.241049413,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-E7-A7DU,Bladder,1,0.920537857,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-E7-A7DV,Bladder,0,1.216425026,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-E7-A7PW,Bladder,0,13.67656245,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-E7-A7XN,Bladder,1,14.07107867,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-E7-A85H,Bladder,0,12.9532827,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-E7-A97P,Bladder,0,14.36696584,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A3B3,Bladder,0,32.02156689,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A3B6,Bladder,1,33.0407338,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-FD-A3N5,Bladder,0,22.52030115,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A3N6,Bladder,0,27.97777559,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A3SM,Bladder,1,17.98336457,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-FD-A3SN,Bladder,0,29.16132426,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A3SS,Bladder,0,12.85465365,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A43N,Bladder,0,22.98057008,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A43P,Bladder,0,27.3531249,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A43X,Bladder,0,3.616398724,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A5BX,Bladder,1,5.687608903,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-FD-A5BZ,Bladder,0,27.45175395,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A6TA,Bladder,0,62.8595851,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A6TD,Bladder,0,12.69027189,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A6TF,Bladder,0,2.268468291,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FD-A6TG,Bladder,0,3.05750074,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-FJ-A3Z7,Bladder,1,31.06815268,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-FT-A3EE,Bladder,1,3.254758852,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-G2-A2EC,Bladder,1,22.88194102,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-G2-A2EJ,Bladder,0,47.99947398,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-G2-A2EO,Bladder,1,59.30893908,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-G2-A2ES,Bladder,0,33.00785745,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-G2-A3IE,Bladder,1,20.12032745,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-G2-A3VY,Bladder,0,17.62172469,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-G2-AA3B,Bladder,1,66.0157149,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-G2-AA3C,Bladder,0,6.93691028,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-G2-AA3D,Bladder,0,70.32251701,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GC-A3RC,Bladder,0,15.91215439,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GC-A4ZW,Bladder,0,0.493145281,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GC-A6I3,Bladder,0,13.90669691,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GD-A2C5,Bladder,0,26.69559786,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GD-A3OP,Bladder,0,2.104086531,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GD-A3OQ,Bladder,0,3.123253444,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GD-A6C6,Bladder,1,2.202715587,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-GU-A42R,Bladder,0,18.96965513,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GU-A766,Bladder,0,15.78064898,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GU-AATP,Bladder,0,32.9749811,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GU-AATQ,Bladder,0,7.002662985,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GV-A3JV,Bladder,0,14.26833679,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GV-A3JZ,Bladder,0,19.82444028,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GV-A40E,Bladder,0,8.580727882,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-GV-A6ZA,Bladder,0,22.71755926,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-HQ-A5ND,Bladder,0,9.008120459,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-HQ-A5NE,Bladder,0,12.16425026,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-K4-A3WS,Bladder,1,25.0189039,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-K4-A3WU,Bladder,0,3.452016964,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-K4-A4AC,Bladder,0,9.139625867,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-K4-A5RH,Bladder,0,9.073873163,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-K4-A6FZ,Bladder,0,1.808199362,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-K4-A6MB,Bladder,0,15.41900911,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-K4-A83P,Bladder,1,16.27379426,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-K4-AAQO,Bladder,1,11.80261038,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-KQ-A41N,Bladder,1,52.73366867,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-KQ-A41P,Bladder,0,35.96672913,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-KQ-A41Q,Bladder,1,46.98030707,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-KQ-A41R,Bladder,1,44.38307525,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-KQ-A41S,Bladder,0,1.150672321,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-LC-A66R,Bladder,0,15.32038005,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-LT-A8JT,Bladder,0,21.07374166,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-MV-A51V,Bladder,1,13.47930434,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-R3-A69X,Bladder,0,14.23546043,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-S5-A6DX,Bladder,1,1.841075714,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-S5-AA26,Bladder,0,16.53680508,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-SY-A9G5,Bladder,0,38.99135352,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-UY-A78K,Bladder,1,17.62172469,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-UY-A78L,Bladder,1,37.05164875,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-UY-A8OB,Bladder,0,69.33622645,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-UY-A9PA,Bladder,1,35.24344939,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-UY-A9PB,Bladder,0,29.55584048,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-UY-A9PD,Bladder,0,17.81898281,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-UY-A9PF,Bladder,0,3.846533189,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-UY-A9PH,Bladder,0,51.31998553,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-A8HD,Bladder,0,97.44550745,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-A8HE,Bladder,0,125.4890357,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-A8HG,Bladder,0,15.3532564,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-A8HI,Bladder,1,17.88473551,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-XF-A9SI,Bladder,1,79.65940099,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-XF-A9SJ,Bladder,0,3.2218825,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-A9SL,Bladder,0,66.41023112,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-A9SM,Bladder,1,34.45441694,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-XF-A9SP,Bladder,0,14.92586383,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-A9ST,Bladder,1,4.208173061,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-XF-A9T0,Bladder,0,26.26820528,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-A9T3,Bladder,0,2.235591939,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-A9T5,Bladder,0,66.64036559,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-A9T6,Bladder,0,2.104086531,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-A9T8,Bladder,0,13.74231515,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-AAME,Bladder,1,92.97432357,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-XF-AAMG,Bladder,1,110.5960483,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-XF-AAML,Bladder,0,7.627313673,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-AAMR,Bladder,0,91.72502219,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-AAMX,Bladder,1,6.77252852,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-XF-AAN3,Bladder,1,86.30042411,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-XF-AAN5,Bladder,0,75.38547523,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-XF-AAN7,Bladder,0,18.5751389,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-YC-A89H,Bladder,0,18.83814972,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-YC-A8S6,Bladder,1,9.632771148,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-YC-A9TC,Bladder,0,0.657527041,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-YF-AA3L,Bladder,0,11.96699214,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-YF-AA3M,Bladder,0,13.6436861,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-ZF-A9R0,Bladder,0,22.35591939,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-ZF-A9R3,Bladder,0,31.19965809,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-ZF-A9R7,Bladder,1,21.86277411,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-ZF-A9RC,Bladder,1,94.28937765,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-ZF-A9RD,Bladder,1,13.41355163,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-ZF-A9RF,Bladder,0,64.07601013,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-ZF-A9RG,Bladder,0,58.71716474,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-ZF-A9RL,Bladder,1,88.86477956,0.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-ZF-AA4R,Bladder,1,34.05990071,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-ZF-AA4V,Bladder,0,59.37469178,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-ZF-AA4X,Bladder,0,67.19926357,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-ZF-AA51,Bladder,0,56.3500674,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-ZF-AA52,Bladder,1,35.40783115,1.0,blca_tcga_pan_can_atlas_2018,1
+TCGA-ZF-AA53,Bladder,0,57.89525594,0.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-ZF-AA54,Bladder,0,19.3970477,1.0,blca_tcga_pan_can_atlas_2018,0
+TCGA-2H-A9GI,Esophageal,1,14.30121314,1.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-2H-A9GO,Esophageal,0,16.24091791,1.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-IC-A6RE,Esophageal,1,7.693066377,0.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-IG-A3Y9,Esophageal,1,0.854785153,1.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-IG-A5B8,Esophageal,1,0.789032449,1.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-JY-A6FA,Esophageal,1,44.74471513,1.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-JY-A938,Esophageal,0,34.84893316,0.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-JY-A939,Esophageal,0,21.69839235,0.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-L5-A43I,Esophageal,0,18.27925173,1.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-L5-A4OI,Esophageal,1,19.98882204,0.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-L5-A4ON,Esophageal,0,18.34500444,1.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-L5-A4OP,Esophageal,1,7.167044745,0.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-L5-A8NF,Esophageal,0,2.662984515,1.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-L5-A8NK,Esophageal,1,13.54505704,0.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-L5-A8NL,Esophageal,1,13.21629352,0.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-L5-A8NM,Esophageal,0,7.758819081,1.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-L5-A8NQ,Esophageal,0,21.36962883,1.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-L5-A8NS,Esophageal,0,13.41355163,0.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-L7-A6VZ,Esophageal,0,10.35605089,0.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-LN-A49L,Esophageal,0,10.45467995,1.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-LN-A49P,Esophageal,1,12.32863202,0.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-LN-A49Y,Esophageal,1,12.46013742,0.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-LN-A4A2,Esophageal,0,12.49301378,0.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-LN-A9FP,Esophageal,0,12.03274485,0.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-LN-A9FR,Esophageal,1,12.26287931,0.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-Q9-A6FW,Esophageal,0,7.824571786,0.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-R6-A6XG,Esophageal,1,38.39957918,0.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-R6-A8W8,Esophageal,0,2.89311898,1.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-VR-A8EP,Esophageal,1,27.09011408,0.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-VR-A8EZ,Esophageal,0,18.18062268,1.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-Z6-A8JD,Esophageal,0,3.419140612,0.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-Z6-AAPN,Esophageal,1,2.662984515,0.0,esca_tcga_pan_can_atlas_2018,1
+TCGA-ZR-A9CJ,Esophageal,0,19.72581122,1.0,esca_tcga_pan_can_atlas_2018,0
+TCGA-2J-AABV,Pancreas,0,21.43538153,1.0,paad_tcga_pan_can_atlas_2018,0
+TCGA-3A-A9IB,Pancreas,0,7.364302857,1.0,paad_tcga_pan_can_atlas_2018,0
+TCGA-3A-A9IS,Pancreas,1,32.81059934,0.0,paad_tcga_pan_can_atlas_2018,1
+TCGA-3A-A9IV,Pancreas,1,36.2626163,0.0,paad_tcga_pan_can_atlas_2018,1
+TCGA-3E-AAAZ,Pancreas,0,71.73620015,1.0,paad_tcga_pan_can_atlas_2018,0
+TCGA-FB-AAQ6,Pancreas,1,8.021829898,1.0,paad_tcga_pan_can_atlas_2018,1
+TCGA-FZ-5920,Pancreas,1,2.005457474,1.0,paad_tcga_pan_can_atlas_2018,1
+TCGA-HZ-8001,Pancreas,0,23.21070454,0.0,paad_tcga_pan_can_atlas_2018,0
+TCGA-HZ-A49I,Pancreas,0,10.12591643,1.0,paad_tcga_pan_can_atlas_2018,0
+TCGA-IB-7651,Pancreas,1,19.82444028,1.0,paad_tcga_pan_can_atlas_2018,1
+TCGA-IB-8127,Pancreas,1,17.16145577,0.0,paad_tcga_pan_can_atlas_2018,1
+TCGA-IB-AAUN,Pancreas,0,4.734194694,1.0,paad_tcga_pan_can_atlas_2018,0
+TCGA-IB-AAUO,Pancreas,0,7.857448138,1.0,paad_tcga_pan_can_atlas_2018,0
+TCGA-2W-A8YY,Cervical,1,17.52309564,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-4J-AA1J,Cervical,0,17.81898281,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-BI-A0VS,Cervical,0,57.04047079,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-C5-A1BI,Cervical,1,36.55850347,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-C5-A1BJ,Cervical,0,144.1628037,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-C5-A1BL,Cervical,0,173.2912516,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-C5-A1BN,Cervical,0,5.457474439,1.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-C5-A1M7,Cervical,0,46.32278002,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-C5-A1MH,Cervical,1,38.99135352,1.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-C5-A1MK,Cervical,0,2.432850051,1.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-C5-A1MN,Cervical,1,40.93105829,1.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-C5-A2LX,Cervical,0,83.04566525,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-C5-A7UC,Cervical,0,17.19433212,1.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-C5-A7X3,Cervical,0,9.336883979,1.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-C5-A8XH,Cervical,1,45.82963474,1.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-DG-A2KJ,Cervical,1,95.11128645,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-DG-A2KL,Cervical,0,44.94197324,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-DG-A2KM,Cervical,0,63.97738107,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-DR-A0ZM,Cervical,0,58.8815465,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-DS-A0VK,Cervical,1,36.75576158,1.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-EA-A3HQ,Cervical,1,37.34753592,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-EA-A3HU,Cervical,1,33.30374462,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-EA-A3QE,Cervical,0,25.0189039,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-EA-A410,Cervical,0,26.39971069,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-EA-A43B,Cervical,0,26.00519446,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-EA-A97N,Cervical,1,0.361639872,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-EK-A2PG,Cervical,0,1.512312194,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-EK-A2PI,Cervical,0,19.2655423,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-EK-A2PL,Cervical,1,0.427392577,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-EK-A2PM,Cervical,0,0.591774337,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-EK-A2R7,Cervical,1,0.887661505,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-EK-A2RL,Cervical,0,47.76933951,1.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-EK-A3GK,Cervical,1,0.493145281,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-FU-A3HZ,Cervical,0,36.2626163,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-FU-A3TQ,Cervical,0,26.13669987,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-FU-A3TX,Cervical,0,1.479435842,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-GH-A9DA,Cervical,0,17.7532301,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-IR-A3LA,Cervical,0,137.1601407,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-IR-A3LK,Cervical,0,29.85172765,1.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-IR-A3LL,Cervical,0,36.36124536,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-JW-A5VL,Cervical,1,15.58339087,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-JW-A852,Cervical,1,8.284840714,1.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-JX-A3Q0,Cervical,1,209.5867443,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-PN-A8MA,Cervical,1,2.958871684,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-Q1-A73O,Cervical,1,14.07107867,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-Q1-A73R,Cervical,1,18.64089161,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-UC-A7PF,Cervical,0,93.99349048,1.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-UC-A7PG,Cervical,0,12.16425026,1.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A8EJ,Cervical,0,19.95594569,1.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A8EL,Cervical,0,65.48969326,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A8Q9,Cervical,1,53.58845383,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-VS-A8QC,Cervical,0,11.50672321,1.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A8QF,Cervical,0,59.17743367,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A94W,Cervical,0,40.86530559,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A94X,Cervical,0,16.63543413,1.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A94Z,Cervical,0,33.36949732,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A953,Cervical,0,15.68201992,1.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A954,Cervical,0,56.3500674,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A958,Cervical,1,50.13643686,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-VS-A959,Cervical,0,51.31998553,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A9U6,Cervical,0,43.39678469,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A9U7,Cervical,0,48.3939902,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A9UB,Cervical,0,29.95035671,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A9UH,Cervical,0,46.91455436,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A9UR,Cervical,0,26.07094717,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-VS-A9V1,Cervical,1,5.16158727,1.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-VS-A9V3,Cervical,0,17.7532301,0.0,cesc_tcga_pan_can_atlas_2018,0
+TCGA-ZJ-AAXU,Cervical,1,0.16438176,0.0,cesc_tcga_pan_can_atlas_2018,1
+TCGA-2Y-A9GT,Liver,0,53.39119571,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-2Y-A9GW,Liver,0,41.78584344,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-2Y-A9H3,Liver,0,49.84054969,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-2Y-A9HB,Liver,0,8.54785153,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-4R-AA8I,Liver,0,8.613604235,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-BC-A10Y,Liver,0,23.3750863,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-CC-A3MB,Liver,0,10.35605089,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-CC-A5UD,Liver,0,9.99441102,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-CC-A9FS,Liver,0,6.93691028,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-CC-A9FW,Liver,0,8.153335306,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-A115,Liver,1,83.57168689,1.0,lihc_tcga_pan_can_atlas_2018,1
+TCGA-DD-A118,Liver,1,112.996022,0.0,lihc_tcga_pan_can_atlas_2018,1
+TCGA-DD-A1EC,Liver,0,19.79156393,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-A39V,Liver,1,21.13949436,1.0,lihc_tcga_pan_can_atlas_2018,1
+TCGA-DD-A3A8,Liver,0,0.361639872,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-A4ND,Liver,0,90.2784627,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-A4NK,Liver,0,39.78038597,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-A4NL,Liver,0,56.25143834,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-A4NQ,Liver,0,12.26287931,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-A4NV,Liver,0,78.83749219,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-A73G,Liver,0,114.3439524,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-AAC8,Liver,1,0.526021633,1.0,lihc_tcga_pan_can_atlas_2018,1
+TCGA-DD-AACA,Liver,0,75.64848604,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-AACF,Liver,0,11.9998685,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-AACJ,Liver,0,69.10609199,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-AACQ,Liver,0,14.20258408,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-AAD1,Liver,0,18.54226255,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-AAD3,Liver,0,42.57487589,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-AADO,Liver,0,14.89298747,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-AADR,Liver,0,66.67324194,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-AADV,Liver,0,18.87102607,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-AAE0,Liver,0,18.24637538,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-AAE3,Liver,0,18.60801526,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-DD-AAEI,Liver,1,50.33369497,0.0,lihc_tcga_pan_can_atlas_2018,1
+TCGA-DD-AAVZ,Liver,0,62.46506888,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-ED-A4XI,Liver,0,26.92573232,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-EP-A3JL,Liver,0,9.961534668,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-FV-A23B,Liver,0,60.88700398,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-FV-A2QR,Liver,1,19.10116054,1.0,lihc_tcga_pan_can_atlas_2018,1
+TCGA-FV-A4ZP,Liver,0,81.73061117,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-G3-A25S,Liver,0,13.67656245,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-G3-A6UC,Liver,1,22.06003222,0.0,lihc_tcga_pan_can_atlas_2018,1
+TCGA-G3-A7M5,Liver,0,14.69572936,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-G3-AAV1,Liver,0,11.80261038,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-LG-A6GG,Liver,0,12.72314824,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-MI-A75H,Liver,0,24.55863497,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-PD-A5DF,Liver,1,21.00798895,1.0,lihc_tcga_pan_can_atlas_2018,1
+TCGA-UB-A7MA,Liver,1,27.87914653,0.0,lihc_tcga_pan_can_atlas_2018,1
+TCGA-UB-A7MB,Liver,0,19.75868758,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-UB-A7MD,Liver,0,1.709570306,1.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-WX-AA44,Liver,0,20.21895651,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-ZP-A9CY,Liver,1,25.7093073,0.0,lihc_tcga_pan_can_atlas_2018,1
+TCGA-ZP-A9D1,Liver,0,0.690403393,0.0,lihc_tcga_pan_can_atlas_2018,0
+TCGA-2Z-A9J7,Kidney Papillary,0,4.569812934,1.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-2Z-A9JD,Kidney Papillary,0,34.84893316,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-2Z-A9JG,Kidney Papillary,0,54.64049709,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-2Z-A9JK,Kidney Papillary,0,38.99135352,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-2Z-A9JQ,Kidney Papillary,0,25.57780189,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-4A-A93X,Kidney Papillary,1,12.8217773,0.0,kirp_tcga_pan_can_atlas_2018,1
+TCGA-5P-A9KC,Kidney Papillary,0,12.39438472,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-A4-7288,Kidney Papillary,0,61.05138574,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-A4-7997,Kidney Papillary,0,30.47637834,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-B1-A654,Kidney Papillary,0,20.25183286,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-B1-A655,Kidney Papillary,0,16.76693954,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-B1-A656,Kidney Papillary,0,20.31758556,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-B9-4114,Kidney Papillary,0,28.1750337,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-B9-5155,Kidney Papillary,0,21.86277411,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-B9-5156,Kidney Papillary,0,43.98855903,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-B9-A44B,Kidney Papillary,0,11.86836309,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-B9-A8YI,Kidney Papillary,1,12.29575566,0.0,kirp_tcga_pan_can_atlas_2018,1
+TCGA-BQ-5886,Kidney Papillary,0,26.03807082,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-BQ-7044,Kidney Papillary,0,123.6150837,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-DW-5560,Kidney Papillary,0,48.85425913,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-DZ-6132,Kidney Papillary,0,80.87582602,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-DZ-6133,Kidney Papillary,0,51.18848013,1.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-G7-6796,Kidney Papillary,0,71.44031298,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-G7-6797,Kidney Papillary,0,25.15040931,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-G7-A8LB,Kidney Papillary,0,17.98336457,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-GL-A4EM,Kidney Papillary,0,1.052043265,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-HE-7130,Kidney Papillary,0,58.19114311,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-IZ-8196,Kidney Papillary,0,21.33675247,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-MH-A55Z,Kidney Papillary,0,27.78051747,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-P4-A5ED,Kidney Papillary,0,92.57980735,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-P4-AAVM,Kidney Papillary,0,50.59670579,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-SX-A71U,Kidney Papillary,0,44.61320972,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-UZ-A9PP,Kidney Papillary,0,98.95781964,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-UZ-A9Q1,Kidney Papillary,0,51.35286189,0.0,kirp_tcga_pan_can_atlas_2018,0
+TCGA-Y8-A8RY,Kidney Papillary,1,25.28191472,0.0,kirp_tcga_pan_can_atlas_2018,1
+TCGA-3B-A9HL,Sarcoma,1,19.69293487,1.0,sarc_tcga_pan_can_atlas_2018,1
+TCGA-3B-A9HX,Sarcoma,1,42.83788671,0.0,sarc_tcga_pan_can_atlas_2018,1
+TCGA-DX-A3LU,Sarcoma,0,86.82644574,0.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-DX-A3U5,Sarcoma,0,31.85718513,0.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-DX-A6YT,Sarcoma,1,67.19926357,0.0,sarc_tcga_pan_can_atlas_2018,1
+TCGA-DX-A8BJ,Sarcoma,0,9.336883979,1.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-DX-AATS,Sarcoma,0,1.150672321,1.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-DX-AB2E,Sarcoma,0,17.78610645,0.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-DX-AB2X,Sarcoma,1,13.28204622,1.0,sarc_tcga_pan_can_atlas_2018,1
+TCGA-IE-A4EJ,Sarcoma,1,3.2218825,0.0,sarc_tcga_pan_can_atlas_2018,1
+TCGA-IS-A3K7,Sarcoma,0,171.088536,0.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-IW-A3M6,Sarcoma,1,22.6189302,0.0,sarc_tcga_pan_can_atlas_2018,1
+TCGA-JV-A5VE,Sarcoma,1,16.40529967,0.0,sarc_tcga_pan_can_atlas_2018,1
+TCGA-K1-A6RU,Sarcoma,0,23.3750863,1.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-LI-A9QH,Sarcoma,0,17.7532301,1.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-MJ-A68J,Sarcoma,0,17.98336457,0.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-MO-A47P,Sarcoma,0,11.57247592,0.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-PC-A5DN,Sarcoma,1,38.62971365,1.0,sarc_tcga_pan_can_atlas_2018,1
+TCGA-QC-A7B5,Sarcoma,1,13.08478811,0.0,sarc_tcga_pan_can_atlas_2018,1
+TCGA-QQ-A5VC,Sarcoma,0,35.90097643,0.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-QQ-A5VD,Sarcoma,0,37.11740145,0.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-QQ-A8VF,Sarcoma,0,111.9768551,0.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-SG-A849,Sarcoma,1,17.52309564,0.0,sarc_tcga_pan_can_atlas_2018,1
+TCGA-WK-A8XT,Sarcoma,0,41.48995627,1.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-WP-A9GB,Sarcoma,0,8.580727882,1.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-X6-A7WB,Sarcoma,1,18.08199362,1.0,sarc_tcga_pan_can_atlas_2018,1
+TCGA-Z4-AAPF,Sarcoma,0,15.94503074,0.0,sarc_tcga_pan_can_atlas_2018,0
+TCGA-3C-AALI,Breast,0,131.6697899,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-5L-AAT0,Breast,1,48.55837196,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-A1-A0SI,Breast,0,20.87648355,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A2-A04P,Breast,0,18.01624092,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A2-A04T,Breast,0,73.84028668,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A2-A04V,Breast,0,63.12259592,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A2-A04W,Breast,0,101.982444,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A2-A0CW,Breast,0,107.9330638,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A2-A0CX,Breast,1,56.81033633,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-A2-A0EU,Breast,0,34.29003518,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A2-A0EY,Breast,0,63.28697768,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A2-A0ST,Breast,0,99.18795411,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A2-A0T2,Breast,0,8.38346977,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A2-A0YK,Breast,1,19.331295,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-A2-A25A,Breast,1,107.7029293,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-A2-A4S1,Breast,0,26.95860867,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A2-A4S2,Breast,0,21.13949436,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A7-A13E,Breast,0,20.18608015,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A7-A5ZV,Breast,1,12.09849755,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-A7-A6VW,Breast,1,9.369760331,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-A7-A6VY,Breast,1,8.745109643,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-A8-A06X,Breast,0,31.00239997,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A8-A076,Breast,0,53.98297005,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A8-A07B,Breast,0,43.00226847,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A8-A07E,Breast,1,19.98882204,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-A8-A07I,Breast,0,14.00532597,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A8-A07L,Breast,1,32.05444324,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-A8-A07O,Breast,0,9.99441102,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A8-A08L,Breast,0,9.99441102,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A8-A09I,Breast,0,45.07347865,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-A8-A0A7,Breast,0,0.986290561,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-AC-A23H,Breast,1,5.720485255,1.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-AC-A5XS,Breast,0,19.331295,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-AC-A62Y,Breast,1,17.42446658,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-AC-A8OP,Breast,1,20.18608015,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-AN-A046,Breast,1,0.32876352,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-AN-A04A,Breast,1,2.958871684,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-AN-A0AK,Breast,1,7.364302857,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-AN-A0AT,Breast,0,0.32876352,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-AN-A0XU,Breast,1,0.32876352,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-AN-A0XV,Breast,1,5.325969031,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-AN-A0XW,Breast,0,5.588979847,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-AO-A03M,Breast,0,61.34727291,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-AO-A03O,Breast,1,81.63198212,1.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-AO-A0J4,Breast,1,52.17477069,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-AO-A0J5,Breast,0,26.03807082,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-AO-A0JD,Breast,0,71.99921097,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-AO-A124,Breast,0,115.2644903,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-AR-A0TQ,Breast,1,98.33316895,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-AR-A0TR,Breast,0,5.260216326,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-AR-A1AI,Breast,0,108.3604563,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-AR-A24M,Breast,1,120.3274485,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-AR-A250,Breast,0,88.99628497,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-AR-A2LE,Breast,0,166.420094,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-B6-A0I1,Breast,0,77.62106717,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-B6-A0IK,Breast,0,18.77239702,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-B6-A0IM,Breast,0,127.3301115,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-B6-A0RE,Breast,0,255.6793898,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-B6-A0RL,Breast,0,81.17171319,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-BH-A0AV,Breast,1,59.83496071,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-BH-A0B0,Breast,1,81.434724,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-BH-A0B5,Breast,1,70.22388796,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-BH-A0BP,Breast,0,75.48410428,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-BH-A0DH,Breast,0,38.00506296,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-BH-A0DS,Breast,1,2.564355459,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-BH-A0DX,Breast,0,70.881415,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-BH-A0HB,Breast,1,26.49833974,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-BH-A0HF,Breast,0,23.90110793,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-BH-A0HP,Breast,0,13.61080975,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-BH-A18G,Breast,0,4.898576454,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-BH-A18K,Breast,1,90.83736069,1.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-BH-A18P,Breast,1,30.27912023,1.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-BH-A18U,Breast,1,51.38573824,1.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-BH-A1EO,Breast,0,91.98803301,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-BH-A1FJ,Breast,0,63.35273038,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-BH-A204,Breast,0,83.30867607,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-BH-A209,Breast,0,130.1574777,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-BH-A2L8,Breast,0,20.12032745,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-BH-A5J0,Breast,0,23.50659171,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-C8-A12W,Breast,0,12.65739554,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-C8-A1HJ,Breast,0,0.16438176,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-C8-A1HO,Breast,0,12.32863202,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-C8-A26Y,Breast,0,12.9532827,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-C8-A278,Breast,0,9.764276556,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-C8-A8HP,Breast,0,13.01903541,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-D8-A1J8,Breast,1,14.16970773,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-D8-A1J9,Breast,0,17.49021929,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-D8-A1JA,Breast,0,16.50392872,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-D8-A1JD,Breast,0,18.14774633,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-D8-A1JK,Breast,0,20.12032745,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-D8-A1XK,Breast,1,14.49847125,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-D8-A1Y0,Breast,0,15.51763816,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-D8-A1Y1,Breast,0,9.928658316,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-D8-A27G,Breast,0,13.44642798,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-E2-A10C,Breast,0,40.10914949,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-E2-A155,Breast,0,21.04086531,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-E2-A15T,Breast,0,51.38573824,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-E2-A1B5,Breast,0,32.35033041,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-E2-A1BD,Breast,0,37.24890686,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-E2-A1IE,Breast,1,77.65394352,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-E2-A1IN,Breast,0,22.19153763,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-E2-A1L9,Breast,0,19.66005852,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-E2-A1LG,Breast,1,50.07068416,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-E2-A1LH,Breast,0,106.7495151,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-E9-A1NH,Breast,0,18.93677878,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-E9-A228,Breast,0,42.24611237,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-E9-A243,Breast,0,20.12032745,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-E9-A54Y,Breast,0,23.83535523,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-EW-A1IX,Breast,0,39.71463326,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-EW-A1J6,Breast,1,28.76680804,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-EW-A1PB,Breast,0,19.98882204,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-EW-A1PE,Breast,0,10.52043265,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-EW-A2FR,Breast,0,55.00213696,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-GM-A2D9,Breast,0,59.5719499,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-GM-A2DH,Breast,1,72.09784002,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-GM-A3NW,Breast,1,110.4974192,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-GM-A5PV,Breast,0,13.54505704,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-LD-A74U,Breast,0,13.21629352,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-LL-A5YP,Breast,1,14.79435842,0.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-LL-A73Y,Breast,0,15.68201992,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-OL-A5D6,Breast,0,36.29549265,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-OL-A5RW,Breast,0,36.36124536,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-OL-A66K,Breast,0,41.91734885,1.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-PE-A5DE,Breast,0,86.95795115,0.0,brca_tcga_pan_can_atlas_2018,0
+TCGA-UU-A93S,Breast,1,3.813656837,1.0,brca_tcga_pan_can_atlas_2018,1
+TCGA-3H-AB3T,Mesothelioma,0,13.61080975,1.0,meso_tcga_pan_can_atlas_2018,0
+TCGA-SH-A7BH,Mesothelioma,0,7.988953546,1.0,meso_tcga_pan_can_atlas_2018,0
+TCGA-UD-AABZ,Mesothelioma,0,6.476641352,1.0,meso_tcga_pan_can_atlas_2018,0
+TCGA-UD-AAC1,Mesothelioma,0,25.93944176,1.0,meso_tcga_pan_can_atlas_2018,0
+TCGA-XT-AASU,Mesothelioma,0,4.66844199,1.0,meso_tcga_pan_can_atlas_2018,0
+TCGA-ZN-A9VS,Mesothelioma,0,40.37216031,0.0,meso_tcga_pan_can_atlas_2018,0
+TCGA-ZN-A9VV,Mesothelioma,0,43.03514482,0.0,meso_tcga_pan_can_atlas_2018,0
+TCGA-3N-A9WC,Melanoma,0,66.47598383,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-BF-A1PU,Melanoma,1,12.72314824,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-BF-A1PV,Melanoma,0,0.460268929,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-BF-A1PX,Melanoma,0,9.271131275,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-BF-A1PZ,Melanoma,1,28.04352829,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-BF-A1Q0,Melanoma,1,27.32024855,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-BF-A3DL,Melanoma,0,25.28191472,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-BF-A3DM,Melanoma,0,19.75868758,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-BF-A3DN,Melanoma,1,23.57234441,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-BF-A5EO,Melanoma,0,23.11207548,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A1Q1,Melanoma,0,16.56968143,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A1Q3,Melanoma,1,16.66831048,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A1Q4,Melanoma,1,112.0426078,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A1QA,Melanoma,0,90.90311339,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A2J6,Melanoma,1,43.42966105,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A2JC,Melanoma,1,86.76069303,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A2JD,Melanoma,1,11.86836309,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A2JE,Melanoma,1,27.64901207,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A2JG,Melanoma,1,113.5220436,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A2JL,Melanoma,0,171.5816813,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A2JP,Melanoma,1,59.5719499,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A3C6,Melanoma,1,58.0596377,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A3C7,Melanoma,1,46.98030707,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A3C8,Melanoma,1,46.32278002,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A3CC,Melanoma,0,86.92507479,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A3CE,Melanoma,1,60.22947694,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A3ML,Melanoma,0,13.87382056,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A3MR,Melanoma,0,103.5933853,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A3MU,Melanoma,0,39.74750962,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A3MV,Melanoma,0,45.30361311,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A51E,Melanoma,0,174.8364402,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A51N,Melanoma,0,22.6189302,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A51T,Melanoma,1,26.89285597,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A5GO,Melanoma,1,137.9162968,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A5GU,Melanoma,0,125.1931486,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A8GI,Melanoma,0,58.51990663,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A8GK,Melanoma,1,170.2008745,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-D3-A8GM,Melanoma,0,107.1440313,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A8GQ,Melanoma,0,29.0626952,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D3-A8GV,Melanoma,0,167.7022718,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D9-A148,Melanoma,0,151.5271066,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D9-A149,Melanoma,0,54.67337344,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D9-A1X3,Melanoma,0,18.11486997,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D9-A3Z4,Melanoma,0,17.06282671,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D9-A4Z3,Melanoma,0,16.60255778,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D9-A6EA,Melanoma,0,25.18328566,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-D9-A6EC,Melanoma,1,77.55531446,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-DA-A1HV,Melanoma,0,76.5690239,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-DA-A1HW,Melanoma,1,26.95860867,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-DA-A1HY,Melanoma,0,144.8860834,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-DA-A1I0,Melanoma,0,20.38333827,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-DA-A1I1,Melanoma,1,222.5071506,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-DA-A1I4,Melanoma,0,35.93385278,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-DA-A1I5,Melanoma,1,135.0231778,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-DA-A1I7,Melanoma,1,88.86477956,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-DA-A1I8,Melanoma,0,53.91721735,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-DA-A1IB,Melanoma,1,27.12299043,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-DA-A3F8,Melanoma,0,43.36390834,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-DA-A95V,Melanoma,1,72.09784002,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-DA-A95Z,Melanoma,0,13.01903541,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EB-A1NK,Melanoma,0,34.15852977,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EB-A299,Melanoma,0,12.42726107,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EB-A3Y7,Melanoma,0,10.71769077,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EB-A41A,Melanoma,0,8.613604235,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EB-A41B,Melanoma,0,9.567018444,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EB-A431,Melanoma,0,18.67376796,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EB-A44P,Melanoma,0,24.36137686,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EB-A4IS,Melanoma,0,25.44629648,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EB-A4XL,Melanoma,0,25.54492554,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EB-A5UL,Melanoma,1,29.29282967,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EB-A5UM,Melanoma,1,25.61067824,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EB-A5UN,Melanoma,0,58.91442286,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EB-A6QZ,Melanoma,0,11.57247592,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EB-A6R0,Melanoma,0,19.98882204,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A17Y,Melanoma,0,27.22161949,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A17Z,Melanoma,0,8.646480587,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A181,Melanoma,0,33.73113719,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A182,Melanoma,0,14.69572936,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A185,Melanoma,1,4.964329158,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A20F,Melanoma,0,91.56064043,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A29B,Melanoma,0,85.08399908,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A29C,Melanoma,0,78.9689976,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A29D,Melanoma,0,13.97244962,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A29E,Melanoma,0,63.78012296,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A29G,Melanoma,1,72.06496367,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A29L,Melanoma,0,2.597231811,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A29N,Melanoma,0,18.60801526,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A29P,Melanoma,0,56.4158201,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A29S,Melanoma,0,61.2815202,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A29V,Melanoma,1,25.87368906,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A29X,Melanoma,1,17.91761186,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2A2,Melanoma,1,59.6377026,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2A5,Melanoma,1,39.28724069,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2A6,Melanoma,0,86.13604235,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2GC,Melanoma,0,67.42939803,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2GE,Melanoma,0,173.7843969,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2GI,Melanoma,1,48.72275372,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2GJ,Melanoma,0,107.3741658,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2GM,Melanoma,1,75.48410428,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2GN,Melanoma,1,102.1139494,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2GO,Melanoma,1,126.8040898,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2GR,Melanoma,0,42.772134,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2GT,Melanoma,1,44.87622054,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2M5,Melanoma,0,21.66551599,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2M7,Melanoma,0,28.83256074,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2M8,Melanoma,0,19.75868758,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2MD,Melanoma,0,47.27619423,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2ME,Melanoma,1,103.2646218,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2MG,Melanoma,0,103.1988691,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2MI,Melanoma,0,204.6552915,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2MJ,Melanoma,1,96.22908242,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2MK,Melanoma,0,180.3925436,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2ML,Melanoma,0,216.6551599,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2MM,Melanoma,1,167.8995299,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2MP,Melanoma,0,248.6438505,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2MQ,Melanoma,1,43.23240293,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2MR,Melanoma,0,134.3985271,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A2MS,Melanoma,1,162.4749318,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A2MU,Melanoma,0,53.25969031,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A3AA,Melanoma,1,124.3054871,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A3AB,Melanoma,0,122.7274222,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A3AC,Melanoma,1,64.04313377,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A3AD,Melanoma,1,28.76680804,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A3AE,Melanoma,0,54.50899168,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A3AF,Melanoma,1,13.80806786,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A3AG,Melanoma,1,41.58858533,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A3AH,Melanoma,0,138.8039583,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A3J7,Melanoma,0,64.07601013,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A3JA,Melanoma,0,53.1939376,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A3JD,Melanoma,0,27.3531249,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-EE-A3JH,Melanoma,1,134.3327744,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-EE-A3JI,Melanoma,0,152.8092843,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A193,Melanoma,0,31.3969162,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A194,Melanoma,0,44.51458066,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A195,Melanoma,0,35.4407075,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A196,Melanoma,0,58.68428839,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A198,Melanoma,1,50.76108755,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-ER-A19B,Melanoma,1,98.39892166,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-ER-A19C,Melanoma,0,48.88713548,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A19F,Melanoma,1,26.36683434,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-ER-A19G,Melanoma,0,302.0679225,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A19H,Melanoma,0,152.3490154,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A19K,Melanoma,0,15.41900911,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A19N,Melanoma,0,44.08718809,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A19P,Melanoma,0,162.0804156,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A19Q,Melanoma,0,50.89259296,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A19T,Melanoma,0,8.876615051,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A1A1,Melanoma,0,105.0728211,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-ER-A2NG,Melanoma,1,48.98576454,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-ER-A3PL,Melanoma,1,33.20511556,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-ER-A42L,Melanoma,0,149.0285038,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FR-A69P,Melanoma,0,15.71489628,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FR-A726,Melanoma,1,10.02728737,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-FR-A728,Melanoma,1,19.16691324,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-FR-A729,Melanoma,0,220.7975803,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FR-A7U9,Melanoma,0,18.77239702,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FR-A8YC,Melanoma,0,34.81605681,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FR-A8YD,Melanoma,0,36.2626163,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FS-A1Z4,Melanoma,0,28.07640464,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FS-A1ZB,Melanoma,0,48.85425913,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FS-A1ZC,Melanoma,0,357.3659467,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FS-A1ZG,Melanoma,0,9.698523852,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FS-A1ZK,Melanoma,0,23.93398429,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FS-A1ZP,Melanoma,1,74.72794819,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-FS-A1ZQ,Melanoma,1,133.543742,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-FS-A1ZW,Melanoma,0,49.47890982,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FS-A4F0,Melanoma,0,77.81832528,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FS-A4F9,Melanoma,0,34.02702436,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-FW-A3R5,Melanoma,1,36.95301969,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-GF-A6C8,Melanoma,1,2.038333827,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-GF-A6C9,Melanoma,0,15.78064898,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-GN-A262,Melanoma,0,139.8888779,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-GN-A265,Melanoma,1,96.91948581,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-GN-A266,Melanoma,0,10.12591643,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-GN-A269,Melanoma,1,5.588979847,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-GN-A26C,Melanoma,1,26.99148503,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-GN-A26D,Melanoma,1,47.99947398,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-GN-A4U3,Melanoma,0,121.9055134,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-GN-A8LK,Melanoma,0,50.10356051,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-HR-A2OG,Melanoma,0,0.230134464,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-LH-A9QB,Melanoma,1,368.7740408,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-OD-A75X,Melanoma,0,297.8926258,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-QB-A6FS,Melanoma,0,7.232797449,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-QB-AA9O,Melanoma,0,18.04911727,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-RP-A694,Melanoma,0,0.690403393,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-W3-A824,Melanoma,1,228.1618832,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-W3-A825,Melanoma,0,63.02396686,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-W3-A828,Melanoma,1,121.0836046,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-W3-AA1O,Melanoma,0,4.010914949,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-W3-AA1Q,Melanoma,0,69.07321564,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-W3-AA1R,Melanoma,0,111.0891935,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-W3-AA1V,Melanoma,1,42.08173061,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-WE-A8K5,Melanoma,1,61.15001479,1.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-WE-A8ZO,Melanoma,0,70.51977513,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-WE-A8ZT,Melanoma,0,11.80261038,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-WE-AAA0,Melanoma,1,40.40503666,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-YD-A89C,Melanoma,0,6.904033928,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-YD-A9TA,Melanoma,0,49.18302265,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-YG-AA3O,Melanoma,0,37.93931025,1.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-Z2-A8RT,Melanoma,1,27.58325936,0.0,skcm_tcga_pan_can_atlas_2018,1
+TCGA-Z2-AA3V,Melanoma,0,15.97790709,0.0,skcm_tcga_pan_can_atlas_2018,0
+TCGA-5M-AAT6,Colorectal,0,9.534142092,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-A6-2677,Colorectal,0,24.32850051,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-A6-2686,Colorectal,0,37.0187724,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-A6-3807,Colorectal,1,34.65167505,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-A6-5659,Colorectal,0,30.44350199,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-A6-5664,Colorectal,0,22.09290857,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-A6-5665,Colorectal,1,22.06003222,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-A6-6780,Colorectal,1,20.12032745,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-A6-6781,Colorectal,1,19.66005852,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-A6-A565,Colorectal,0,16.24091791,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-3492,Colorectal,1,3.024624388,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-3496,Colorectal,0,1.019166913,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-3502,Colorectal,1,35.01331492,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-3510,Colorectal,1,63.97738107,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-3530,Colorectal,0,19.06828418,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-3663,Colorectal,0,6.969786633,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-3664,Colorectal,1,54.0158464,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-3678,Colorectal,0,47.01318342,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-3679,Colorectal,0,15.02449288,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-3713,Colorectal,1,19.03540783,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-3715,Colorectal,0,19.03540783,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-3811,Colorectal,1,10.06016372,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-3819,Colorectal,0,25.0189039,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-3854,Colorectal,0,36.03248184,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-3858,Colorectal,0,31.06815268,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-3864,Colorectal,0,52.99667949,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-3947,Colorectal,1,33.00785745,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-3949,Colorectal,0,26.00519446,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-3966,Colorectal,1,2.005457474,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-3977,Colorectal,1,25.0189039,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-3989,Colorectal,0,7.956077194,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-A00N,Colorectal,1,4.010914949,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-A010,Colorectal,1,34.98043857,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-A01C,Colorectal,0,15.02449288,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AA-A01P,Colorectal,1,38.07081566,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-A01R,Colorectal,1,35.01331492,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-A02R,Colorectal,1,22.02715587,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AA-A02Y,Colorectal,1,39.97764408,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AD-5900,Colorectal,0,12.16425026,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AD-6895,Colorectal,0,25.08465661,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AD-6899,Colorectal,0,5.786237959,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AD-6963,Colorectal,0,27.4188776,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AD-6964,Colorectal,0,10.88207253,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AG-3592,Colorectal,0,34.02702436,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AG-3732,Colorectal,1,32.9749811,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AG-3885,Colorectal,0,17.95048821,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AG-3892,Colorectal,1,13.01903541,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AG-A002,Colorectal,1,20.9751126,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AG-A00C,Colorectal,0,6.016372423,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AG-A02N,Colorectal,1,61.9719236,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AH-6903,Colorectal,0,19.46280041,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AM-5820,Colorectal,0,0.460268929,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AM-5821,Colorectal,1,0.920537857,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AY-4070,Colorectal,1,16.30667061,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AY-A69D,Colorectal,0,17.85185916,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AZ-4315,Colorectal,1,58.38840122,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AZ-4615,Colorectal,1,32.94210474,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-AZ-6598,Colorectal,0,49.41315712,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-AZ-6599,Colorectal,0,6.77252852,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CA-5797,Colorectal,0,12.59164283,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CA-6717,Colorectal,1,12.75602459,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-CA-6718,Colorectal,1,10.06016372,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-CI-6622,Colorectal,0,44.77759148,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CI-6624,Colorectal,0,48.19673209,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CK-4947,Colorectal,1,17.55597199,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-CK-4950,Colorectal,1,85.44563895,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-CK-4951,Colorectal,1,70.15813525,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-CK-5912,Colorectal,1,49.0843936,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-CK-5916,Colorectal,0,21.13949436,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CK-6747,Colorectal,0,82.9470362,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CL-5917,Colorectal,0,78.11421245,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CM-4743,Colorectal,0,23.04632278,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CM-4746,Colorectal,1,37.0187724,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-CM-5861,Colorectal,1,15.02449288,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-CM-5863,Colorectal,0,15.02449288,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CM-5864,Colorectal,0,15.02449288,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CM-5868,Colorectal,0,17.02995036,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CM-6161,Colorectal,0,15.02449288,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CM-6162,Colorectal,0,11.9998685,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-CM-6674,Colorectal,0,12.9532827,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-D5-6530,Colorectal,1,20.41621462,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-D5-6533,Colorectal,0,25.47917283,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-D5-6536,Colorectal,1,17.85185916,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-D5-6540,Colorectal,0,16.14228885,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-D5-6922,Colorectal,1,10.12591643,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-D5-6929,Colorectal,0,13.41355163,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-D5-6930,Colorectal,0,13.34779893,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-D5-7000,Colorectal,1,10.25742184,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-DM-A0XF,Colorectal,0,38.20232107,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-DM-A1D0,Colorectal,1,130.650623,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-DM-A1D9,Colorectal,0,140.3820232,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-DM-A1DB,Colorectal,1,44.31732255,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-DM-A28E,Colorectal,0,119.9329322,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-DM-A28K,Colorectal,1,98.2345399,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-DY-A1DF,Colorectal,0,24.1312424,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-DY-A1H8,Colorectal,1,32.61334122,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-EI-6507,Colorectal,0,19.95594569,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-EI-6512,Colorectal,0,17.6874774,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-EI-6882,Colorectal,1,8.613604235,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-EI-6883,Colorectal,1,11.50672321,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-EI-6917,Colorectal,1,17.45734293,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-EI-7004,Colorectal,1,8.449222474,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-F4-6460,Colorectal,1,31.95581418,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-F4-6570,Colorectal,1,6.180754184,1.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-F4-6703,Colorectal,0,47.86796857,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-F4-6805,Colorectal,1,34.42154059,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-F4-6807,Colorectal,0,43.03514482,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-F4-6854,Colorectal,0,0.526021633,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-F5-6571,Colorectal,1,42.34474143,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-F5-6813,Colorectal,0,19.66005852,1.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-F5-6814,Colorectal,1,37.18315416,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-G4-6293,Colorectal,0,133.1821021,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-G4-6304,Colorectal,0,53.62133018,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-G4-6306,Colorectal,0,44.67896242,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-G4-6311,Colorectal,0,39.4187461,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-G4-6320,Colorectal,1,26.43258704,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-G4-6586,Colorectal,1,35.80234737,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-G4-6588,Colorectal,0,26.16957622,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-G4-6628,Colorectal,1,79.69227735,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-NH-A5IV,Colorectal,1,19.331295,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-NH-A8F7,Colorectal,0,17.85185916,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-QG-A5Z2,Colorectal,0,31.29828714,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-QL-A97D,Colorectal,0,21.89565046,0.0,coadread_tcga_pan_can_atlas_2018,0
+TCGA-WS-AB45,Colorectal,1,70.02662985,0.0,coadread_tcga_pan_can_atlas_2018,1
+TCGA-A3-3308,Kidney ccRCC,1,0.526021633,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-A3-3311,Kidney ccRCC,0,39.15573528,1.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-A3-3322,Kidney ccRCC,1,48.59124832,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-A3-3346,Kidney ccRCC,0,4.50406023,1.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-A3-3358,Kidney ccRCC,1,42.96939212,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-A3-3365,Kidney ccRCC,0,28.70105533,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-A3-3387,Kidney ccRCC,0,20.28470921,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-A3-A6NL,Kidney ccRCC,0,22.65180656,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-A3-A6NN,Kidney ccRCC,0,0.098629056,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-A3-A8CQ,Kidney ccRCC,0,0.098629056,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-B0-4827,Kidney ccRCC,0,29.09557156,1.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-B0-5077,Kidney ccRCC,0,43.29815564,1.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-B0-5095,Kidney ccRCC,0,8.05470625,1.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-B0-5099,Kidney ccRCC,1,15.94503074,1.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-B0-5693,Kidney ccRCC,0,133.9382582,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-B0-5701,Kidney ccRCC,0,80.90870237,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-B0-5703,Kidney ccRCC,0,73.84028668,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-B0-5713,Kidney ccRCC,0,91.46201138,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-B2-5641,Kidney ccRCC,1,21.56688694,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-B4-5832,Kidney ccRCC,0,5.095834566,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-B4-5835,Kidney ccRCC,1,0.526021633,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-B8-4151,Kidney ccRCC,1,42.7063813,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-B8-4621,Kidney ccRCC,0,25.90656541,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-BP-4782,Kidney ccRCC,0,11.63822862,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-BP-4801,Kidney ccRCC,0,36.95301969,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-BP-4964,Kidney ccRCC,0,61.2157675,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-BP-4965,Kidney ccRCC,0,61.51165467,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-BP-4998,Kidney ccRCC,0,30.6407601,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-BP-5173,Kidney ccRCC,1,2.038333827,1.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-BP-5185,Kidney ccRCC,0,37.21603051,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-BP-5198,Kidney ccRCC,0,19.82444028,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-CJ-4638,Kidney ccRCC,0,14.16970773,1.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-CJ-4639,Kidney ccRCC,1,106.1577407,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-CJ-4643,Kidney ccRCC,1,58.94729921,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-CJ-4882,Kidney ccRCC,1,61.90617089,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-CJ-4903,Kidney ccRCC,1,51.28710918,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-CJ-4904,Kidney ccRCC,1,108.5577144,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-CJ-4912,Kidney ccRCC,0,54.47611533,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-CJ-6027,Kidney ccRCC,0,118.8480126,1.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-CW-5585,Kidney ccRCC,0,85.77440247,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-CZ-4853,Kidney ccRCC,0,25.44629648,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-CZ-4863,Kidney ccRCC,1,63.38560673,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-CZ-5451,Kidney ccRCC,0,63.41848309,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-CZ-5457,Kidney ccRCC,1,90.54147352,0.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-CZ-5465,Kidney ccRCC,1,84.29496663,1.0,kirc_tcga_pan_can_atlas_2018,1
+TCGA-CZ-5468,Kidney ccRCC,0,1.93970477,1.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-CZ-5982,Kidney ccRCC,0,80.18542263,0.0,kirc_tcga_pan_can_atlas_2018,0
+TCGA-A5-A0G1,Endometrial,1,106.8810205,1.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-A5-A0G2,Endometrial,1,149.5545254,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-A5-A0GP,Endometrial,1,46.55291449,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-A5-A0GW,Endometrial,0,23.21070454,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-A5-A0R9,Endometrial,0,24.62438768,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-A5-A0VP,Endometrial,1,42.34474143,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-A5-A1OF,Endometrial,1,31.98869054,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-A5-A2K3,Endometrial,0,66.1472203,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-A5-A2K4,Endometrial,0,28.63530263,1.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-A5-A2K5,Endometrial,1,24.72301673,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AJ-A23N,Endometrial,1,14.43271855,1.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AJ-A23O,Endometrial,0,10.25742184,1.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AJ-A2QK,Endometrial,1,21.13949436,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AJ-A2QL,Endometrial,1,19.79156393,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AJ-A2QM,Endometrial,0,29.39145872,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AJ-A2QN,Endometrial,0,35.14482033,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AJ-A2QO,Endometrial,1,34.35578788,1.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AJ-A3BG,Endometrial,1,18.08199362,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AJ-A3EK,Endometrial,1,14.66285301,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AJ-A3EL,Endometrial,1,22.4874248,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AJ-A3IA,Endometrial,0,20.81073084,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AJ-A3TW,Endometrial,1,16.8655686,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AJ-A5DW,Endometrial,0,12.8217773,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AJ-A8CT,Endometrial,0,2.695860867,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AJ-A8CW,Endometrial,0,0.131505408,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AP-A051,Endometrial,1,129.7958379,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AP-A054,Endometrial,0,23.3093336,1.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AP-A056,Endometrial,1,86.07028964,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AP-A059,Endometrial,1,48.03235033,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AP-A05N,Endometrial,0,23.86823158,1.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AP-A0LE,Endometrial,1,110.3659138,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AP-A0LF,Endometrial,0,93.99349048,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AP-A0LG,Endometrial,1,66.24584936,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AP-A0LM,Endometrial,1,27.12299043,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AP-A0LP,Endometrial,0,61.64316008,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AP-A0LT,Endometrial,0,49.215899,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AP-A1DH,Endometrial,0,71.67044745,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AP-A1DK,Endometrial,1,90.9688661,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AP-A1DM,Endometrial,0,55.88979847,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AP-A1DP,Endometrial,1,35.53933656,1.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AP-A1DR,Endometrial,1,49.1501463,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AP-A1DV,Endometrial,1,6.706775816,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AP-A1E0,Endometrial,1,60.22947694,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AP-A1E1,Endometrial,0,45.8625111,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A05S,Endometrial,0,13.57793339,1.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A05Z,Endometrial,1,71.50606569,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AX-A060,Endometrial,1,35.34207844,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AX-A063,Endometrial,0,79.46214288,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A06F,Endometrial,1,57.46786337,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AX-A06H,Endometrial,0,27.38600125,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A0J0,Endometrial,0,40.10914949,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A0J1,Endometrial,0,77.3909327,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A1C4,Endometrial,0,13.28204622,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A1C5,Endometrial,1,32.90922839,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AX-A1C9,Endometrial,0,26.36683434,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A1CE,Endometrial,1,34.09277707,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AX-A2H4,Endometrial,1,30.11473847,1.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AX-A2HA,Endometrial,1,81.3689713,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AX-A2HC,Endometrial,1,34.32291153,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AX-A2HD,Endometrial,1,46.48716179,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AX-A2HG,Endometrial,1,38.23519742,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AX-A2HJ,Endometrial,1,30.73938916,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AX-A2IN,Endometrial,0,31.13390538,1.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A2IO,Endometrial,0,64.93079528,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A3FS,Endometrial,0,0.230134464,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A3FT,Endometrial,0,0.197258112,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A3G6,Endometrial,1,0.263010816,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-AX-A3G7,Endometrial,0,0.295887168,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-AX-A3G9,Endometrial,1,18.34500444,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-B5-A0JR,Endometrial,1,56.90896538,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-B5-A0JU,Endometrial,1,59.24318638,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-B5-A0JV,Endometrial,0,86.00453694,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-B5-A0JY,Endometrial,1,69.27047375,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-B5-A0JZ,Endometrial,0,71.44031298,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-B5-A0K6,Endometrial,0,64.20751553,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-B5-A0K9,Endometrial,1,13.44642798,1.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-B5-A11E,Endometrial,1,59.83496071,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-B5-A11G,Endometrial,1,113.3576618,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-B5-A11J,Endometrial,0,54.44323898,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-B5-A11N,Endometrial,0,61.67603643,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-B5-A11R,Endometrial,1,77.22655094,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-B5-A11U,Endometrial,0,16.73406319,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-B5-A11V,Endometrial,0,19.56142946,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-B5-A11Y,Endometrial,0,18.41075714,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-B5-A1MR,Endometrial,1,225.4988986,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-B5-A1MW,Endometrial,1,14.69572936,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-B5-A1MX,Endometrial,1,48.42686656,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-B5-A3FA,Endometrial,1,96.29483513,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-B5-A3FC,Endometrial,1,71.83482921,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BG-A0LX,Endometrial,1,20.18608015,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BG-A0M0,Endometrial,1,19.331295,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BG-A0M9,Endometrial,0,74.62931913,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-BG-A0MC,Endometrial,0,41.52283263,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-BG-A0MQ,Endometrial,0,59.73633166,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-BG-A0RY,Endometrial,0,15.41900911,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-BG-A0VW,Endometrial,1,52.01038893,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BG-A0VZ,Endometrial,0,52.63503962,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-BG-A0YV,Endometrial,0,12.55876648,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-BG-A18C,Endometrial,1,15.45188546,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BG-A222,Endometrial,1,9.567018444,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BG-A2L7,Endometrial,1,20.12032745,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BK-A0C9,Endometrial,1,35.90097643,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BK-A6W3,Endometrial,1,10.02728737,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BS-A0TC,Endometrial,1,85.54426801,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BS-A0TJ,Endometrial,1,67.98829602,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BS-A0U8,Endometrial,0,97.41263109,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-BS-A0UA,Endometrial,0,114.9028504,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-BS-A0UF,Endometrial,1,85.84015518,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BS-A0UJ,Endometrial,1,82.38813821,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-BS-A0UM,Endometrial,0,86.92507479,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-BS-A0UV,Endometrial,1,73.24851235,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-D1-A0ZO,Endometrial,0,19.79156393,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A0ZS,Endometrial,0,4.865700102,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A103,Endometrial,1,21.99427952,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-D1-A15X,Endometrial,0,29.884604,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A160,Endometrial,0,3.682151429,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A161,Endometrial,1,29.32570602,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-D1-A167,Endometrial,0,15.71489628,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A16B,Endometrial,0,36.36124536,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A16N,Endometrial,0,31.06815268,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A16R,Endometrial,0,0.690403393,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A16X,Endometrial,1,3.649275076,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-D1-A16Y,Endometrial,1,17.49021929,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-D1-A174,Endometrial,0,19.52855311,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A177,Endometrial,1,18.01624092,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-D1-A17C,Endometrial,1,0.986290561,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-D1-A17D,Endometrial,1,30.44350199,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-D1-A17H,Endometrial,0,28.01065194,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A17M,Endometrial,0,10.22454548,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A17Q,Endometrial,1,1.77532301,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-D1-A17T,Endometrial,1,2.334220995,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-D1-A17U,Endometrial,0,22.91481737,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A1NU,Endometrial,0,13.21629352,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A1NX,Endometrial,1,18.24637538,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-D1-A1NY,Endometrial,1,16.8655686,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-D1-A1NZ,Endometrial,0,18.01624092,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-D1-A1O7,Endometrial,0,1.052043265,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-DF-A2KN,Endometrial,1,2.202715587,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-DF-A2KU,Endometrial,1,100.8317717,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-DF-A2KV,Endometrial,1,89.32504849,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-DF-A2L0,Endometrial,0,25.90656541,1.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-DI-A0WH,Endometrial,0,16.30667061,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-DI-A1BU,Endometrial,1,39.28724069,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-DI-A2QY,Endometrial,1,110.102903,1.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-E6-A1LX,Endometrial,1,23.3750863,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-E6-A1M0,Endometrial,1,58.94729921,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-E6-A2P8,Endometrial,1,2.367097347,1.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-E6-A2P9,Endometrial,1,45.56662393,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EC-A1QX,Endometrial,1,7.364302857,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EC-A24G,Endometrial,1,16.79981589,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EO-A22R,Endometrial,1,61.74178913,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EO-A22T,Endometrial,0,66.9033764,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-EO-A22U,Endometrial,1,46.25702732,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EO-A22X,Endometrial,1,57.59936877,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EO-A3AU,Endometrial,0,50.7282112,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-EO-A3AV,Endometrial,1,35.14482033,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EO-A3AY,Endometrial,1,38.07081566,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EO-A3AZ,Endometrial,0,27.15586679,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-EO-A3B0,Endometrial,1,46.42140908,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EO-A3KX,Endometrial,1,38.46533189,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EY-A1GC,Endometrial,0,54.14735181,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-EY-A1GD,Endometrial,1,53.88434099,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EY-A1GE,Endometrial,1,24.36137686,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EY-A1GF,Endometrial,1,27.15586679,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EY-A1GI,Endometrial,0,23.34220995,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-EY-A1GU,Endometrial,1,32.77772298,1.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EY-A210,Endometrial,0,12.59164283,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-EY-A212,Endometrial,1,10.19166913,1.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EY-A215,Endometrial,1,18.87102607,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-EY-A3L3,Endometrial,0,27.3531249,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-EY-A548,Endometrial,0,14.13683138,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-EY-A549,Endometrial,0,19.89019298,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-EY-A5W2,Endometrial,0,16.96419765,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-EY-A72D,Endometrial,0,5.884867015,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-FI-A2D0,Endometrial,1,39.87901502,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-FI-A2D5,Endometrial,1,13.84094421,1.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-FI-A2F4,Endometrial,1,73.31426505,0.0,ucec_tcga_pan_can_atlas_2018,1
+TCGA-KP-A3W4,Endometrial,0,18.21349903,1.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-QF-A5YS,Endometrial,0,22.65180656,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-QS-A5YQ,Endometrial,0,24.9531512,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-QS-A5YR,Endometrial,0,23.63809712,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-SJ-A6ZI,Endometrial,0,20.74497814,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-SL-A6JA,Endometrial,0,0.230134464,0.0,ucec_tcga_pan_can_atlas_2018,0
+TCGA-B7-5816,Gastric,1,26.69559786,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-B7-A5TI,Gastric,1,19.56142946,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-B7-A5TJ,Gastric,1,11.01357793,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-4184,Gastric,0,6.969786633,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-4201,Gastric,0,30.90377092,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-4256,Gastric,0,9.336883979,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-4257,Gastric,0,9.6656475,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-4280,Gastric,0,6.60814676,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-6452,Gastric,1,34.6845514,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-6563,Gastric,0,39.12285893,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-6566,Gastric,0,32.77772298,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-6801,Gastric,0,40.20777855,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-6802,Gastric,1,30.90377092,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-6852,Gastric,0,44.94197324,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-7704,Gastric,1,35.24344939,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-7707,Gastric,1,35.83522372,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-7717,Gastric,0,18.14774633,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-7723,Gastric,0,28.73393168,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-8059,Gastric,1,14.43271855,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-8081,Gastric,1,32.25170135,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-8360,Gastric,0,6.180754184,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-8361,Gastric,1,31.10102903,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-8363,Gastric,1,0.263010816,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-8366,Gastric,0,0.953414209,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-8368,Gastric,0,4.306802117,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-8372,Gastric,1,31.26541079,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-8382,Gastric,1,25.05178025,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-8384,Gastric,0,3.715027781,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-8487,Gastric,1,1.117795969,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-8589,Gastric,0,27.12299043,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-8591,Gastric,1,28.14215735,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-8680,Gastric,1,31.95581418,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-A4CQ,Gastric,1,34.98043857,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BR-A4J7,Gastric,0,32.51471217,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-BR-A4QL,Gastric,0,16.14228885,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CD-5801,Gastric,0,13.18341717,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CD-5803,Gastric,1,11.21083605,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-CD-8524,Gastric,0,12.75602459,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CD-8531,Gastric,0,12.59164283,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CD-8534,Gastric,1,12.0656212,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-CD-8536,Gastric,0,12.42726107,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CD-A486,Gastric,0,6.312259592,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CD-A48C,Gastric,0,11.60535227,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CD-A4MG,Gastric,0,6.575270408,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CD-A4MI,Gastric,1,11.76973403,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-CD-A4MJ,Gastric,0,12.62451918,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CG-4301,Gastric,1,3.024624388,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-CG-4305,Gastric,0,15.94503074,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CG-4306,Gastric,1,1.019166913,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-CG-4443,Gastric,0,29.98323306,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CG-4449,Gastric,0,19.06828418,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CG-5721,Gastric,1,6.016372423,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-CG-5723,Gastric,0,105.0728211,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CG-5724,Gastric,1,12.03274485,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-CG-5728,Gastric,0,65.09517704,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CG-5730,Gastric,0,4.010914949,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-CG-5733,Gastric,1,21.07374166,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-D7-5578,Gastric,1,12.65739554,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-D7-6520,Gastric,0,18.83814972,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-D7-6528,Gastric,0,15.221751,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-D7-6822,Gastric,0,12.32863202,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-D7-8573,Gastric,0,19.49567676,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-D7-A4YT,Gastric,0,14.26833679,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-D7-A4YV,Gastric,1,5.917743367,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-D7-A6EY,Gastric,1,11.44097051,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-D7-A6EZ,Gastric,0,20.31758556,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-FP-8099,Gastric,0,17.06282671,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-FP-A4BE,Gastric,1,11.07933064,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-HF-7132,Gastric,0,77.29230365,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-HJ-7597,Gastric,1,26.46546339,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-HU-A4G8,Gastric,0,22.68468291,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-HU-A4GH,Gastric,1,11.76973403,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-HU-A4GN,Gastric,0,29.98323306,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-HU-A4GQ,Gastric,0,0.098629056,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-HU-A4GT,Gastric,0,6.509517704,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-HU-A4GU,Gastric,0,6.575270408,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-HU-A4GX,Gastric,0,20.25183286,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-HU-A4H3,Gastric,0,28.9969425,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-HU-A4HD,Gastric,1,33.40237367,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-IN-A6RI,Gastric,0,18.37788079,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-IN-A6RP,Gastric,1,6.443765,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-KB-A93H,Gastric,0,37.64342309,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-MX-A5UJ,Gastric,0,19.72581122,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-R5-A7ZE,Gastric,0,18.21349903,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-R5-A7ZI,Gastric,1,74.53069008,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-RD-A8N9,Gastric,0,35.60508926,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-RD-A8NB,Gastric,0,16.8655686,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-SW-A7EA,Gastric,0,19.03540783,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-VQ-A8P2,Gastric,1,38.13656837,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-VQ-A8PB,Gastric,1,34.29003518,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-VQ-A8PC,Gastric,1,46.25702732,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-VQ-A8PE,Gastric,0,22.19153763,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-VQ-A8PM,Gastric,0,1.873952066,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-VQ-A8PP,Gastric,0,23.40796265,1.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-VQ-A8PT,Gastric,0,29.58871684,0.0,stad_tcga_pan_can_atlas_2018,0
+TCGA-VQ-A91D,Gastric,1,11.70398133,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-VQ-A91E,Gastric,1,21.82989776,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-VQ-A91Z,Gastric,1,55.56103495,0.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-VQ-AA6K,Gastric,1,12.42726107,1.0,stad_tcga_pan_can_atlas_2018,1
+TCGA-BA-5556,Head & Neck,1,23.83535523,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-BA-5559,Head & Neck,0,68.4814413,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-BA-6869,Head & Neck,0,21.17237071,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-BA-6872,Head & Neck,0,12.62451918,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-BA-7269,Head & Neck,0,41.85159615,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-BA-A4IG,Head & Neck,0,28.10928099,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-BA-A6DD,Head & Neck,0,5.687608903,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-4723,Head & Neck,1,55.85692212,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CN-4725,Head & Neck,0,38.03793931,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-4731,Head & Neck,0,32.81059934,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-4739,Head & Neck,1,45.82963474,1.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CN-4740,Head & Neck,1,27.58325936,1.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CN-4742,Head & Neck,1,13.05191176,1.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CN-5356,Head & Neck,1,46.32278002,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CN-5364,Head & Neck,0,16.20804156,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-5369,Head & Neck,0,12.49301378,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-5373,Head & Neck,1,52.07614163,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CN-6010,Head & Neck,0,50.07068416,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-6011,Head & Neck,0,30.67363645,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-6013,Head & Neck,0,23.90110793,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-6021,Head & Neck,0,9.073873163,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-6023,Head & Neck,1,52.07614163,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CN-6024,Head & Neck,0,11.07933064,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-6988,Head & Neck,0,10.45467995,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-6992,Head & Neck,0,35.04619128,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-6995,Head & Neck,0,3.682151429,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-A63T,Head & Neck,0,7.397179209,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-A63Y,Head & Neck,0,16.56968143,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-A640,Head & Neck,0,4.405431173,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-A642,Head & Neck,0,2.695860867,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CN-A6V1,Head & Neck,0,19.82444028,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CQ-5325,Head & Neck,0,21.50113423,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CQ-6218,Head & Neck,1,41.19406911,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CQ-6224,Head & Neck,0,56.58020186,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CQ-7069,Head & Neck,0,41.8844725,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CQ-7071,Head & Neck,0,43.10089752,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CR-5248,Head & Neck,0,54.67337344,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CR-6473,Head & Neck,0,36.98589605,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CR-6481,Head & Neck,0,10.22454548,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CR-6484,Head & Neck,0,11.63822862,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CR-7364,Head & Neck,1,47.17756518,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CR-7368,Head & Neck,0,40.93105829,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CR-7370,Head & Neck,0,3.452016964,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CR-7374,Head & Neck,1,0.986290561,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CR-7380,Head & Neck,0,19.92306934,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CR-7383,Head & Neck,0,17.12857941,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CR-7386,Head & Neck,0,47.01318342,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CR-7388,Head & Neck,1,27.05723773,1.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CR-7395,Head & Neck,1,30.5750074,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CR-7404,Head & Neck,0,48.3939902,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-5430,Head & Neck,0,139.428609,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-5432,Head & Neck,1,129.2040635,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CV-5440,Head & Neck,0,107.5056712,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-5978,Head & Neck,0,7.068415689,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-6441,Head & Neck,0,9.599894796,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-6934,Head & Neck,0,2.136962883,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-6936,Head & Neck,0,5.457474439,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-6937,Head & Neck,1,20.51484367,1.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CV-6941,Head & Neck,0,11.2437124,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-6945,Head & Neck,0,12.03274485,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-6950,Head & Neck,0,15.09024559,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-6961,Head & Neck,0,2.498602755,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-6962,Head & Neck,0,4.142420357,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7089,Head & Neck,1,64.83216622,1.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CV-7097,Head & Neck,0,12.65739554,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7099,Head & Neck,0,7.988953546,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7101,Head & Neck,1,5.260216326,1.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CV-7103,Head & Neck,0,52.3062761,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7242,Head & Neck,1,35.99960548,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CV-7245,Head & Neck,0,26.20245258,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7248,Head & Neck,1,17.12857941,1.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CV-7250,Head & Neck,0,95.34142092,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7252,Head & Neck,0,4.964329158,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7406,Head & Neck,0,57.46786337,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7421,Head & Neck,0,0.065752704,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7422,Head & Neck,0,34.09277707,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7430,Head & Neck,0,16.27379426,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7437,Head & Neck,0,16.63543413,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7440,Head & Neck,0,22.19153763,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-7446,Head & Neck,1,35.93385278,1.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CV-7568,Head & Neck,0,30.47637834,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-A45O,Head & Neck,0,27.97777559,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-A45R,Head & Neck,0,180.1624092,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-A45W,Head & Neck,0,45.96114015,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-A45Z,Head & Neck,0,48.19673209,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-A463,Head & Neck,1,0.756156097,1.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CV-A468,Head & Neck,0,15.25462735,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-A6JO,Head & Neck,1,6.476641352,1.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-CV-A6K1,Head & Neck,0,22.52030115,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CV-A6K2,Head & Neck,0,10.4218036,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-CX-7219,Head & Neck,0,34.35578788,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-D6-6516,Head & Neck,1,25.41342013,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-D6-8569,Head & Neck,1,25.31479107,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-DQ-5624,Head & Neck,1,58.45415393,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-DQ-5625,Head & Neck,0,37.24890686,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-DQ-5629,Head & Neck,0,30.93664727,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-F7-7848,Head & Neck,0,37.18315416,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-F7-8489,Head & Neck,0,21.63263964,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-F7-A50J,Head & Neck,0,31.13390538,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-F7-A622,Head & Neck,0,11.80261038,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-F7-A623,Head & Neck,0,20.25183286,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-F7-A624,Head & Neck,1,12.42726107,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-HD-7754,Head & Neck,1,25.74218365,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-HD-A4C1,Head & Neck,0,0.361639872,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-IQ-A61E,Head & Neck,0,37.70917579,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-KU-A66T,Head & Neck,0,18.14774633,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-KU-A6H7,Head & Neck,0,19.2655423,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-MT-A67F,Head & Neck,0,12.62451918,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-P3-A6T4,Head & Neck,0,2.038333827,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-P3-A6T8,Head & Neck,1,13.15054082,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-QK-A6II,Head & Neck,0,9.336883979,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-QK-A6VB,Head & Neck,0,21.07374166,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-QK-A6VC,Head & Neck,1,19.72581122,0.0,hnsc_tcga_pan_can_atlas_2018,1
+TCGA-T2-A6WX,Head & Neck,0,6.871157576,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-T2-A6X0,Head & Neck,0,7.101292041,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-T3-A92M,Head & Neck,0,13.7094388,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-T3-A92N,Head & Neck,0,3.123253444,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-UF-A7J9,Head & Neck,0,44.64608607,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-UF-A7JA,Head & Neck,0,74.46493737,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-UF-A7JK,Head & Neck,0,13.93957327,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-UF-A7JO,Head & Neck,0,20.74497814,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-UF-A7JT,Head & Neck,0,32.64621758,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-UF-A7JV,Head & Neck,0,2.958871684,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-WA-A7GZ,Head & Neck,0,20.54772003,1.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-WA-A7H4,Head & Neck,0,14.56422395,0.0,hnsc_tcga_pan_can_atlas_2018,0
+TCGA-BJ-A0Z0,Thyroid,0,13.77519151,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-BJ-A0ZH,Thyroid,0,15.12312194,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-BJ-A28S,Thyroid,0,21.04086531,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-CE-A484,Thyroid,0,12.42726107,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-DE-A4MC,Thyroid,0,30.01610941,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-DJ-A1QG,Thyroid,1,44.97484959,0.0,thca_tcga_pan_can_atlas_2018,1
+TCGA-DJ-A2QB,Thyroid,0,35.17769668,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-E8-A2EA,Thyroid,1,35.67084196,0.0,thca_tcga_pan_can_atlas_2018,1
+TCGA-EL-A3GV,Thyroid,1,50.36657133,0.0,thca_tcga_pan_can_atlas_2018,1
+TCGA-EL-A3H5,Thyroid,0,83.57168689,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-EL-A4K1,Thyroid,1,34.38866423,0.0,thca_tcga_pan_can_atlas_2018,1
+TCGA-EM-A1YC,Thyroid,1,78.60735773,0.0,thca_tcga_pan_can_atlas_2018,1
+TCGA-EM-A22O,Thyroid,0,44.18581714,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-EM-A3O9,Thyroid,0,9.238254923,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-ET-A39P,Thyroid,1,95.34142092,0.0,thca_tcga_pan_can_atlas_2018,1
+TCGA-ET-A3BN,Thyroid,0,28.2407864,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-J8-A3O0,Thyroid,0,43.16665023,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-J8-A3O1,Thyroid,0,27.18874314,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-J8-A3YE,Thyroid,0,27.84627018,0.0,thca_tcga_pan_can_atlas_2018,0
+TCGA-KS-A4IB,Thyroid,1,84.72235921,0.0,thca_tcga_pan_can_atlas_2018,1
+TCGA-CH-5737,Prostate,1,2.991748036,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-CH-5762,Prostate,0,44.02143538,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-CH-5764,Prostate,0,1.019166913,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-CH-5791,Prostate,1,33.00785745,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-EJ-5511,Prostate,1,48.52549561,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-EJ-5518,Prostate,1,69.63211362,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-EJ-7325,Prostate,0,35.17769668,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-EJ-7784,Prostate,0,25.67643094,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-EJ-7797,Prostate,0,32.31745406,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-EJ-A46G,Prostate,1,21.96140316,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-FC-7961,Prostate,0,15.41900911,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-G9-6496,Prostate,1,56.74458362,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-G9-7510,Prostate,1,38.95847717,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-G9-7521,Prostate,1,30.96952362,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-HC-7081,Prostate,1,37.34753592,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-HC-7747,Prostate,1,24.59151133,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-HC-8260,Prostate,1,22.5531775,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-HC-A4ZV,Prostate,0,0.756156097,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-HC-A6HX,Prostate,1,1.249301378,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-HC-A8CY,Prostate,0,9.534142092,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-J4-A67Q,Prostate,0,32.05444324,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-J4-A83M,Prostate,0,17.85185916,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-J4-AAU2,Prostate,1,27.12299043,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-KK-A59X,Prostate,0,83.34155242,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-KK-A59Z,Prostate,0,86.39905316,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-KK-A8ID,Prostate,1,69.27047375,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-KK-A8IF,Prostate,0,26.43258704,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-KK-A8IM,Prostate,0,62.95821416,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-M7-A725,Prostate,1,18.83814972,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-V1-A8WL,Prostate,0,64.04313377,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-VN-A88K,Prostate,1,25.51204918,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-VP-A878,Prostate,1,102.9029819,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-VP-AA1N,Prostate,0,44.87622054,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-XK-AAIW,Prostate,0,40.04339679,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-XQ-A8TA,Prostate,0,4.799947398,1.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-Y6-A8TL,Prostate,0,32.61334122,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-YL-A8HK,Prostate,0,49.01864089,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-YL-A8S9,Prostate,1,60.55824046,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-YL-A8SC,Prostate,1,41.45707992,0.0,prad_tcga_pan_can_atlas_2018,1
+TCGA-YL-A9WH,Prostate,0,14.03820232,0.0,prad_tcga_pan_can_atlas_2018,0
+TCGA-DB-5275,Low Grade Glioma,0,47.93372127,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-DB-A64O,Low Grade Glioma,0,25.47917283,1.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-DB-A75M,Low Grade Glioma,0,17.88473551,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-DB-A75O,Low Grade Glioma,1,30.73938916,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-DH-5142,Low Grade Glioma,1,63.87875201,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-DH-5144,Low Grade Glioma,1,24.59151133,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-DU-5852,Low Grade Glioma,0,6.739652168,1.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-DU-5854,Low Grade Glioma,0,8.449222474,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-DU-5872,Low Grade Glioma,1,17.49021929,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-DU-6392,Low Grade Glioma,1,211.1648092,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-DU-6396,Low Grade Glioma,1,75.15534076,1.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-DU-6408,Low Grade Glioma,1,114.0809416,1.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-DU-7301,Low Grade Glioma,0,25.90656541,1.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-DU-8164,Low Grade Glioma,0,21.40250518,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-DU-A5TR,Low Grade Glioma,1,29.85172765,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-DU-A76K,Low Grade Glioma,0,11.40809416,1.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-DU-A76O,Low Grade Glioma,1,17.16145577,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-E1-5307,Low Grade Glioma,0,57.92813229,1.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-E1-A7YE,Low Grade Glioma,1,29.12844791,1.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-E1-A7YH,Low Grade Glioma,1,93.20445803,1.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-E1-A7YK,Low Grade Glioma,1,12.42726107,1.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-E1-A7Z3,Low Grade Glioma,0,73.47864681,1.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-FG-5963,Low Grade Glioma,1,25.47917283,1.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-FG-7634,Low Grade Glioma,1,15.3532564,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-FG-7638,Low Grade Glioma,0,22.5531775,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-FG-A4MX,Low Grade Glioma,1,18.70664431,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-FG-A4MY,Low Grade Glioma,0,23.70384982,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-HT-7475,Low Grade Glioma,1,17.42446658,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-HT-7478,Low Grade Glioma,1,6.378012296,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-HT-7482,Low Grade Glioma,1,106.9467732,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-HT-7681,Low Grade Glioma,0,44.67896242,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-HT-7689,Low Grade Glioma,1,14.95874018,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-HT-7690,Low Grade Glioma,1,0.098629056,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-HT-7693,Low Grade Glioma,1,17.52309564,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-HT-7902,Low Grade Glioma,1,31.42979255,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-HT-8018,Low Grade Glioma,0,37.87355755,1.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-HT-8564,Low Grade Glioma,0,15.71489628,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-HT-A61A,Low Grade Glioma,0,6.378012296,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-HT-A74K,Low Grade Glioma,0,15.3532564,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-HW-8319,Low Grade Glioma,1,39.74750962,1.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-HW-A5KL,Low Grade Glioma,1,28.86543709,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-P5-A72W,Low Grade Glioma,1,10.4218036,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-QH-A6X5,Low Grade Glioma,0,16.33954696,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-QH-A6X8,Low Grade Glioma,0,16.73406319,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-R8-A6MK,Low Grade Glioma,1,88.83190321,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-RY-A83Z,Low Grade Glioma,0,9.895781964,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-S9-A6TS,Low Grade Glioma,1,62.16918171,1.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-S9-A6TV,Low Grade Glioma,1,18.77239702,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-S9-A6TZ,Low Grade Glioma,0,36.82151429,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-S9-A6U8,Low Grade Glioma,1,98.2345399,1.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-S9-A7IX,Low Grade Glioma,0,26.92573232,1.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-S9-A7QZ,Low Grade Glioma,0,27.15586679,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-S9-A7R8,Low Grade Glioma,0,31.59417431,1.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-S9-A89Z,Low Grade Glioma,0,20.48196732,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-TM-A7C3,Low Grade Glioma,0,54.7720025,1.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-TQ-A7RH,Low Grade Glioma,1,15.97790709,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-TQ-A7RK,Low Grade Glioma,0,44.08718809,0.0,lgg_tcga_pan_can_atlas_2018,0
+TCGA-WY-A85B,Low Grade Glioma,1,45.79675839,0.0,lgg_tcga_pan_can_atlas_2018,1
+TCGA-FA-A6HN,DLBCL,0,1.906828418,1.0,dlbc_tcga_pan_can_atlas_2018,0
+TCGA-FA-A82F,DLBCL,0,14.03820232,0.0,dlbc_tcga_pan_can_atlas_2018,0
+TCGA-GR-A4D4,DLBCL,0,51.97751258,0.0,dlbc_tcga_pan_can_atlas_2018,0
+TCGA-GS-A9TT,DLBCL,0,38.23519742,0.0,dlbc_tcga_pan_can_atlas_2018,0
+TCGA-GS-A9TW,DLBCL,0,53.16106125,0.0,dlbc_tcga_pan_can_atlas_2018,0
+TCGA-GS-A9TY,DLBCL,0,109.5768814,0.0,dlbc_tcga_pan_can_atlas_2018,0
+TCGA-GS-A9TZ,DLBCL,1,25.15040931,0.0,dlbc_tcga_pan_can_atlas_2018,1
+TCGA-KN-8428,Kidney Chromophobe,0,52.27339974,1.0,kich_tcga_pan_can_atlas_2018,0
+TCGA-KN-8435,Kidney Chromophobe,1,115.0014794,0.0,kich_tcga_pan_can_atlas_2018,1
+TCGA-N5-A4RN,Uterine Carcinosarcoma,0,34.6187987,0.0,ucs_tcga_pan_can_atlas_2018,0
+TCGA-N5-A59F,Uterine Carcinosarcoma,0,11.86836309,1.0,ucs_tcga_pan_can_atlas_2018,0
+TCGA-N7-A4Y0,Uterine Carcinosarcoma,1,25.34766742,1.0,ucs_tcga_pan_can_atlas_2018,1
+TCGA-NA-A4R1,Uterine Carcinosarcoma,0,6.673899464,1.0,ucs_tcga_pan_can_atlas_2018,0
+TCGA-ND-A4WC,Uterine Carcinosarcoma,1,25.18328566,0.0,ucs_tcga_pan_can_atlas_2018,1
+TCGA-NF-A4X2,Uterine Carcinosarcoma,1,2.662984515,0.0,ucs_tcga_pan_can_atlas_2018,1
+TCGA-NF-A5CP,Uterine Carcinosarcoma,1,5.490350791,1.0,ucs_tcga_pan_can_atlas_2018,1
+TCGA-OR-A5JF,Adrenocortical,1,66.24584936,0.0,acc_tcga_pan_can_atlas_2018,1
+TCGA-OR-A5JY,Adrenocortical,1,18.14774633,1.0,acc_tcga_pan_can_atlas_2018,1
+TCGA-OR-A5K5,Adrenocortical,0,16.37242332,1.0,acc_tcga_pan_can_atlas_2018,0
+TCGA-OR-A5KB,Adrenocortical,1,24.36137686,0.0,acc_tcga_pan_can_atlas_2018,1
+TCGA-OR-A5L2,Adrenocortical,0,60.88700398,1.0,acc_tcga_pan_can_atlas_2018,0
+TCGA-PK-A5HB,Adrenocortical,0,42.50912319,0.0,acc_tcga_pan_can_atlas_2018,0
+TCGA-QR-A70H,Pheochromocytoma,0,26.82710327,0.0,pcpg_tcga_pan_can_atlas_2018,0
+TCGA-RW-A680,Pheochromocytoma,1,47.63783411,0.0,pcpg_tcga_pan_can_atlas_2018,1
+TCGA-W2-A7HC,Pheochromocytoma,1,14.43271855,0.0,pcpg_tcga_pan_can_atlas_2018,1
+TCGA-WB-A81P,Pheochromocytoma,1,12.98615906,0.0,pcpg_tcga_pan_can_atlas_2018,1
+TCGA-V4-A9EC,Uveal Melanoma,0,24.42712957,0.0,uvm_tcga_pan_can_atlas_2018,0
+TCGA-V4-A9EM,Uveal Melanoma,0,31.75855607,0.0,uvm_tcga_pan_can_atlas_2018,0
+TCGA-W5-AA2Q,Cholangiocarcinoma,1,1.643817602,0.0,chol_tcga_pan_can_atlas_2018,1
+TCGA-W5-AA30,Cholangiocarcinoma,0,37.9064339,0.0,chol_tcga_pan_can_atlas_2018,0
+TCGA-W5-AA39,Cholangiocarcinoma,0,5.588979847,1.0,chol_tcga_pan_can_atlas_2018,0
+TCGA-ZH-A8Y2,Cholangiocarcinoma,0,23.04632278,1.0,chol_tcga_pan_can_atlas_2018,0
+TCGA-XU-A92R,Thymoma,1,90.04832824,0.0,thym_tcga_pan_can_atlas_2018,1
+TCGA-ZB-A966,Thymoma,1,12.46013742,1.0,thym_tcga_pan_can_atlas_2018,1
+TCGA-ZB-A96F,Thymoma,0,57.89525594,0.0,thym_tcga_pan_can_atlas_2018,0
+TCGA-YU-A90Y,Testicular,0,0.558897985,1.0,tgct_tcga_pan_can_atlas_2018,0
+TCGA-ZM-AA06,Testicular,0,49.24877536,0.0,tgct_tcga_pan_can_atlas_2018,0

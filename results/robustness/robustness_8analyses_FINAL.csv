@@ -1,0 +1,24 @@
+Analysis,HR,CI_lo,CI_hi,p,N,Note
+Baseline (unadjusted),0.803,0.683,0.945,0.008,1883,Reference
+Tumor-stratified,0.868,0.737,1.023,0.091,1757,Covariate: tumor type
+1a. Germline-gene proxy carriers vs Benign,0.617,0.473,0.806,0.0004,1449,"BRCA1/2,ATM,PALB2,CHEK2"
+1b. Somatic-gene proxy carriers vs Benign,0.914,0.761,1.097,0.333,1624,"CDK12,ATRX,ATR,etc"
+2a. Stage-adjusted,0.87,0.718,1.055,0.156,1311,Δ=3.1% from unadjusted
+2b. Stage+Age adjusted,0.862,0.711,1.044,0.129,1304,Complete case
+2c. Fully adjusted,0.889,0.734,1.078,0.232,1304,Ridge penalty=0.01
+3a. RMST τ=60mo,,,,0.004,1883,Δ=+3.1mo (1.0–5.2)
+3b. RMST τ=81mo,,,,0.002,1883,Δ=+5.2mo (1.5–8.5)
+3c. RMST τ=120mo,,,,0.008,1883,Δ=+7.3mo (1.5–12.2)
+4a. Purity ≥0.2,0.806,0.683,0.951,0.011,1827,Excluded 25
+4b. Purity ≥0.3,0.774,0.652,0.919,0.003,1714,Excluded 138
+4c. Purity ≥0.4,0.703,0.584,0.847,0.0002,1529,Excluded 323
+4d. Purity ≥0.5,0.699,0.573,0.853,0.0004,1305,Excluded 547
+5. E-value (baseline),0.803,,,,1883,E=1.80 (CI bound=1.31)
+5. E-value (stage-adj),0.87,,,,1311,E=1.56 (CI bound=1.00)
+6. BRCA1 methylation β>0.2,,,,0.025,1608,OR=1.27; 42.1% ben / 48.0% path
+6. BRCA1 methylation β>0.3,,,,0.657,1608,OR=0.91; 9.6% ben / 8.8% path
+7a. TMB (nonsilent),,,,0.0001,1575,30.6 vs 10.4 mut/Mb
+7b. SNV Neoantigens,,,,0.0001,1575,602 vs 144
+7c. CD8 T cells,,,,0.803,1575,No difference
+7d. Immune subtype,,,,0.053,1575,"χ²=10.9, similar C1–C6"
+7e. HRD score (Thorsson),,,,0.0001,1575,20.3 vs 23.0 (paradoxically lower)

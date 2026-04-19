@@ -1,0 +1,13 @@
+scenario,p,survives
+Baseline (real data),1.18e-24,True
+AM 5% FPR,1.46e-22,True
+AM 10% FPR,3.6e-21,True
+AM 15% FNR,1.35e-22,True
+LOH 10% FPR,1.12e-22,True
+LOH 20% FPR,1.02e-20,True
+LOH 15% FNR,3.32e-17,True
+AM 10%FPR + LOH 10%FPR,2.64e-19,True
+AM 10%FPR + LOH 20%FPR,1.7e-17,True
+Worst realistic,5.26e-07,True
+50% TRUE_HRD false positive,2.64e-12,True
+Nuclear 50% AM + 30% LOH,5.33e-03,True

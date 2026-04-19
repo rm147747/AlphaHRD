@@ -1,0 +1,15 @@
+feature,path_mean,ben_mean,delta,p,n_path,n_ben
+Nonsilent Mutation Rate,30.588,10.362,20.227,0.0001,614,961
+SNV Neoantigens,601.964,143.83,458.134,0.0001,613,949
+Indel Neoantigens,343.791,184.698,159.093,0.009,613,949
+Homologous Recombination Defects,20.349,22.974,-2.626,0.0001,614,949
+Leukocyte Fraction,0.225,0.237,-0.012,0.117,575,889
+Lymphocyte Infiltration Signature Score,0.111,0.118,-0.007,0.938,614,961
+IFN-gamma Response,0.09,0.139,-0.049,0.32,614,961
+TGF-beta Response,0.014,0.048,-0.035,0.073,614,961
+T Cells CD8,0.132,0.129,0.002,0.803,583,897
+Macrophages M1,0.054,0.056,-0.001,0.505,583,897
+Macrophages M2,0.236,0.239,-0.002,0.383,583,897
+T Cells Regulatory Tregs,0.032,0.03,0.001,0.308,583,897
+Proliferation,0.254,0.231,0.023,0.643,614,961
+Wound Healing,0.107,0.105,0.002,0.904,614,961

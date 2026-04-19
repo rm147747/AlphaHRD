@@ -1,0 +1,6 @@
+threshold,n_pathogenic,n_benign,HR,CI_low,CI_high,p_value
+0.34,20,19,,,,
+0.5,20,19,,,,
+0.564,19,20,,,,
+0.7,14,25,,,,
+0.8,13,26,,,,
