@@ -26,7 +26,7 @@ For patients with at least one AlphaMissense-pathogenic variant, ASCAT3 allele-s
 
 ## Layer 3: Genomic scar characterization
 
-HRDsum was compared between biallelic and monoallelic groups by Mann–Whitney U test; the proportion exceeding ≥ 42 was compared by Fisher's exact test. SBS3 mutational signature exposures provided an independent measure of HRR deficiency. Patients were assigned to six biological characterization tiers — TRUE_HRD (biallelic + HRDsum ≥ 42), PROBABLE_HRD (biallelic + HRDsum 33–41), BIALLELIC_NO_SCAR (biallelic + HRDsum < 33), MONOALLELIC, NO_LOH_EVALUABLE, and BENIGN — used for genomic characterization rather than as the primary prognostic classifier.
+HRDsum was compared between biallelic and monoallelic groups by Mann–Whitney U test; the proportion exceeding ≥ 42 was compared by Fisher's exact test. Patients were assigned to six biological characterization tiers — TRUE_HRD (biallelic + HRDsum ≥ 42), PROBABLE_HRD (biallelic + HRDsum 33–41), BIALLELIC_NO_SCAR (biallelic + HRDsum < 33), MONOALLELIC, NO_LOH_EVALUABLE, and BENIGN — used for genomic characterization rather than as the primary prognostic classifier.
 
 ## Survival analysis
 
