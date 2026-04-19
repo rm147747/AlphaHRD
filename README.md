@@ -6,7 +6,9 @@
 
 **AlphaHRD** is a three-layer computational framework for interpreting HRR missense variants of uncertain significance, combining pathogenicity prediction with allele-specific LOH and genomic scar characterization. We benchmarked four predictors (AlphaMissense, REVEL, CADD, PrimateAI) against overall survival within germline-enriched HRR genes across 31 TCGA pan-cancer types.
 
-> Raphael B. Moreira, Indianara V. Brandão, Felipe Batalini, Vamsidhar Velcheti
+> Raphael Brandão¹, Indianara V. Brandão¹, Felipe Batalini², Vamsidhar Velcheti²*
+
+* Corresponding author
 >
 > Target: JCO Precision Oncology
 
@@ -114,4 +116,5 @@ Run NB1 → NB2 → NB3 → NB4 → NB5–NB8 → NB10 in order. Codespaces-read
 
 ## Contact
 
-- Raphael B. Moreira, MD — rb@firstsaude.com
+Corresponding: Vamsidhar Velcheti, MD — velcheti.vamsidhar@mayo.edu
+Lead contact: Raphael Brnadão, MD — rb@firstsaude.com
