@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.1] — 2026-04-19
+
+### Documentation
+- Aligned terminology across README, METHODS.md, AUDIT.md, and manifest.json
+- Updated manifest.json with canonical values
+- Pinned scikit-learn and tqdm versions in requirements.txt
+
+
 ## [3.1.0] — 2026-04-18
 
 ### Updates
