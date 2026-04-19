@@ -17,22 +17,22 @@
 | ClinVar concordance (κ) | 0.733 (CI 0.712–0.754) |
 | VUS reclassified | 90.1% (66,912 / 74,246) |
 | **Concordant pathogenic (AM + REVEL) HR** | **0.563 (0.390–0.814, p = 0.0022)** |
-| AM within-germline HR | 0.646 (0.467–0.893, p = 0.008) |
-| REVEL within-germline HR | 0.679 (0.523–0.882, p = 0.004) |
+| AM within-germline HR | 0.646 (0.467–0.893, p = 0.0083) |
+| REVEL within-germline HR | 0.679 (0.523–0.882, p = 0.0037) |
 | Gene-stratified HR (within-gene effect) | 0.644 (p = 0.013) |
 | E-value (concordance) | 2.95 (CI bound 1.76) |
 | Stratified Cox HR (pan-cancer) | 0.868 (0.737–1.023, p = 0.091) |
-| Biallelic vs monoallelic HRDsum | 27.0 vs 11.0 (p = 4.6 × 10⁻⁹) |
-| Purity-filtered HR (≥ 0.5) | 0.699 (p < 0.001) |
+| Biallelic vs monoallelic HRDsum | 27.0 vs 11.0 (p = 4.63 × 10⁻⁹) |
+| Purity-filtered HR (≥ 0.5) | 0.699 (0.573–0.853, p = 0.0004) |
 | Tumors analyzed | 31 TCGA PanCancer Atlas |
 | Patients | 1,939 (1,883 with OS) |
 | Variants | 4,301 HRR missense |
 
 ## Central Result
 
-Within germline-enriched HRR genes (BRCA1/2, ATM, PALB2, CHEK2), patients classified as pathogenic by **both** AlphaMissense and REVEL had the strongest survival association (HR = 0.563, p = 0.002). When the two predictors disagreed, neither group reached significance. Cross-predictor concordance defines the clinically informative VUS subset.
+Within germline-enriched HRR genes (BRCA1/2, ATM, PALB2, CHEK2), patients classified as pathogenic by **both** AlphaMissense and REVEL had the strongest survival association (HR = 0.563, p = 0.0022). When the two predictors disagreed, neither group reached significance. Cross-predictor concordance defines the clinically informative VUS subset.
 
-CADD trended without significance (p = 0.09). PrimateAI did not discriminate (p = 0.53).
+CADD trended without significance (p = 0.091). PrimateAI did not discriminate (p = 0.53).
 
 ## Pipeline
 
@@ -72,11 +72,11 @@ Layer 3: Genomic scar characterization
 | 1a | Germline-enriched vs somatic-enriched | Germline HR = 0.617 (p < .0001); Somatic HR = 0.914 (p = .333) |
 | 1b | Within-germline predictor concordance | Both-pathogenic HR = 0.563 (p = 0.0022) |
 | 2 | RMST | +3.1 to +7.3 months across τ = 60, 81, 120 (all p < 0.01) |
-| 3 | Purity filter | HR strengthens: 0.80 → 0.70 |
+| 3 | Purity filter | HR strengthens: 0.806 → 0.699 |
 | 4 | E-value | Concordance: 2.95 (CI 1.76); Pan-cancer unadjusted: 1.80 (CI 1.31); Stage-adjusted: 1.56 (CI 1.00) |
 | 5 | BRCA1 methylation | Independent (OR ≈ 1.0, p = 0.66) |
 | 6 | TMB + immune | TMB 3× higher; immune infiltrate identical |
-| 7 | Stage-adjusted Cox | HR = 0.87 (p = 0.16) |
+| 7 | Stage-adjusted Cox | HR = 0.87 (p = 0.156) |
 
 ## Important Limitations
 

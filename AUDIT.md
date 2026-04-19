@@ -62,10 +62,10 @@ with explicit documentation of data provenance, decisions, and limitations.
 
 | Finding | Implication |
 |---------|------------|
-| Stage adjustment attenuates HR to 0.87 (p=0.16) | Confounding by stage is real |
+| Stage adjustment attenuates HR to 0.87 (p=0.156) | Confounding by stage is real |
 | E-value = 1.80 (CI bound 1.31) | Moderate robustness to unmeasured confounding |
 | BRCA1 methylation does not differ by AM group | Pipeline captures different HRD pathway |
-| Somatic-only carriers: HR=0.91 (p=0.33) | No survival benefit for somatic HRR variants |
+| Somatic-only carriers: HR=0.914 (p=0.333) | No survival benefit for somatic HRR variants |
 | mCRPC validation: opposite direction (HR=1.15) | Referral bias in advanced cohort |
 
 ## Reproducibility Checklist
