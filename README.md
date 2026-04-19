@@ -16,12 +16,12 @@
 |---------|-------|
 | ClinVar concordance (κ) | 0.733 (CI 0.712–0.754) |
 | VUS reclassified | 90.1% (66,912 / 74,246) |
-| **Concordant pathogenic (AM + REVEL) HR** | **0.563 (0.390–0.814, p = 0.002)** |
+| **Concordant pathogenic (AM + REVEL) HR** | **0.563 (0.390–0.814, p = 0.0022)** |
 | AM within-germline HR | 0.646 (0.467–0.893, p = 0.008) |
 | REVEL within-germline HR | 0.679 (0.523–0.882, p = 0.004) |
 | Gene-stratified HR (within-gene effect) | 0.644 (p = 0.013) |
 | E-value (concordance) | 2.95 (CI bound 1.76) |
-| Stratified Cox HR (pan-cancer) | 0.848 (0.716–1.005, p = 0.057) |
+| Stratified Cox HR (pan-cancer) | 0.868 (0.737–1.023, p = 0.091) |
 | Biallelic vs monoallelic HRDsum | 27.0 vs 11.0 (p = 4.6 × 10⁻⁹) |
 | Purity-filtered HR (≥ 0.5) | 0.699 (p < 0.001) |
 | Tumors analyzed | 31 TCGA PanCancer Atlas |
@@ -30,7 +30,7 @@
 
 ## Central Result
 
-Within germline-enriched HRR genes (BRCA1/2, ATM, PALB2, CHEK2), patients classified as pathogenic by **both** AlphaMissense and REVEL had the strongest survival association (HR = 0.56, p = 0.002). When the two predictors disagreed, neither group reached significance. Cross-predictor concordance defines the clinically informative VUS subset.
+Within germline-enriched HRR genes (BRCA1/2, ATM, PALB2, CHEK2), patients classified as pathogenic by **both** AlphaMissense and REVEL had the strongest survival association (HR = 0.563, p = 0.002). When the two predictors disagreed, neither group reached significance. Cross-predictor concordance defines the clinically informative VUS subset.
 
 CADD trended without significance (p = 0.09). PrimateAI did not discriminate (p = 0.53).
 
@@ -45,8 +45,10 @@ Layer 2: Allele-specific LOH (ASCAT3)
          → Biallelic vs monoallelic classification
 
 Layer 3: Genomic scar characterization
-         → HRDsum (LOH + TAI + LST) + SBS3 signatures
-         → Five-tier classification (biological characterization)
+         → HRDsum (LOH + TAI + LST)
+         → Six-tier classification (biological characterization):
+           TRUE_HRD, PROBABLE_HRD, BIALLELIC_NO_SCAR,
+           MONOALLELIC, NO_LOH_EVALUABLE, BENIGN
 ```
 
 ## Notebooks
@@ -67,11 +69,11 @@ Layer 3: Genomic scar characterization
 
 | # | Analysis | Result |
 |---|----------|--------|
-| 1a | Germline-enriched vs somatic-enriched | Germline HR = 0.60 (p < 0.001); Somatic HR = 1.02 (ns) |
-| 1b | Within-germline predictor concordance | Both-pathogenic HR = 0.56 (p = 0.002) |
-| 2 | RMST | +3.1 to +5.8 months (all p < 0.01) |
+| 1a | Germline-enriched vs somatic-enriched | Germline HR = 0.617 (p < .0001); Somatic HR = 0.914 (p = .333) |
+| 1b | Within-germline predictor concordance | Both-pathogenic HR = 0.563 (p = 0.0022) |
+| 2 | RMST | +3.1 to +7.3 months across τ = 60, 81, 120 (all p < 0.01) |
 | 3 | Purity filter | HR strengthens: 0.80 → 0.70 |
-| 4 | E-value | Concordance: 2.95 (CI 1.76); Pan-cancer: 1.64 (CI 1.00) |
+| 4 | E-value | Concordance: 2.95 (CI 1.76); Pan-cancer unadjusted: 1.80 (CI 1.31); Stage-adjusted: 1.56 (CI 1.00) |
 | 5 | BRCA1 methylation | Independent (OR ≈ 1.0, p = 0.66) |
 | 6 | TMB + immune | TMB 3× higher; immune infiltrate identical |
 | 7 | Stage-adjusted Cox | HR = 0.87 (p = 0.16) |
@@ -82,8 +84,8 @@ Layer 3: Genomic scar characterization
 - Concordance analysis was added during pre-submission audit, not pre-specified
 - AlphaMissense does not predict HRD status independently
 - TCGA is treatment-naive; PARPi-treated validation needed
-- Five-tier classification is biological characterization, not a validated prognostic tool
-- TRUE_HRD subgroup (n = 37) is underpowered for survival analysis
+- Six-tier classification is biological characterization, not a validated prognostic tool
+- TRUE_HRD subgroup (n = 36 with OS data) is underpowered for survival analysis
 
 ## Data Sources
 
@@ -96,7 +98,7 @@ Layer 3: Genomic scar characterization
 
 ## Documentation
 
-- [AUDIT.md](AUDIT.md) — Pre-submission audit trail (20 errors identified and addressed)
+- [AUDIT.md](AUDIT.md) — Pre-submission audit trail
 - [CHANGELOG.md](CHANGELOG.md) — Version history
 - `manifest.json` — Key results for reproducibility verification
 
