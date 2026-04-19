@@ -82,20 +82,4 @@ with explicit documentation of data provenance, decisions, and limitations.
 - [x] manifest.json contains key results for automated verification
 
 
-### What AI (LLM) assisted with
-- Code support for data processing, statistical analysis,
-- Pipeline automation (API queries, data harmonization)
-- Figure generation (forest plots, KM curves)
-- Repository organization and documentation
-
-### What was human-led 
-- Code generation for data processing, statistical analysis, and visualization (Python and R)
-- Study design and research question formulation
-- Gene panel selection (25 HRR genes)
-- Literature search and reference verification
-- Statistical method selection and justification
-- Clinical interpretation of all results
-- All data source decisions
-- Review, validation, and approval of every output
-- Senior author communications and collaboration decisions
 
