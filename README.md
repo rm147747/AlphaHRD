@@ -57,12 +57,12 @@ Layer 3: Genomic scar characterization
 |---|--------|---------|------------|
 | NB1 | `Notebook1_Data_Acquisition.ipynb` | TCGA-PRAD download, HRR filter, AM annotation (prostate subset) | `annotated_hrr_variants.csv` (52 variants; pan-cancer data in `pancancer_hrr_variants.csv` from NB4) |
 | NB2 | `Notebook2_Concordance_VUS.ipynb` | ClinVar κ, VUS reclassification | `concordance_results.csv` |
-| NB3 | `Notebook3_mCRPC_Validation.py` | MSK-IMPACT external validation (negative) | `mcrpc_validation_results.csv` |
+| NB3 | `Notebook3_mCRPC_Validation.py` | MSK-IMPACT external validation (negative) | `msk_impact_v72_scored.csv` |
 | NB4 | `Notebook4_PanCancer_Survival.ipynb` | 31-tumor Cox, LOH, HRDsum, meta-analysis | `pancancer_hrr_variants.csv` |
 | NB5 | `Notebook5_Synthetic_Validation.ipynb` | Simulation accuracy 87%, power analysis | `synthetic_module1-3.csv` |
-| NB6 | `Notebook6_Robustness_Analyses.ipynb` | Schoenfeld, bootstrap, permutation | `reviewer_robustness.csv` |
-| NB7 | `Notebook7_Extended_Robustness.py` | Germline/somatic proxy, RMST, purity, E-value | `robustness_5analyses_FINAL.csv` |
-| NB8 | `Notebook8_BRCA1_Methylation.py` | Promoter methylation independence | `analysis6_results.csv` |
+| NB6 | `Notebook6_Robustness_Analyses.ipynb` | Schoenfeld, bootstrap, permutation | `reviewer_robustness_analyses.csv` |
+| NB7 | `Notebook7_Extended_Robustness.py` | Germline/somatic proxy, RMST, purity, E-value | `robustness/robustness_5analyses_FINAL.csv` |
+| NB8 | `Notebook8_BRCA1_Methylation.py` | Promoter methylation independence | `methylation/analysis6_results.csv` |
 | **NB10** | **`Notebook10_Benchmark_Concordance.py`** | **Predictor benchmark, AM×REVEL concordance, LOGO, CCF** | **`benchmark_predictors.csv`, `concordance_survival.csv`** |
 
 ## Sensitivity Analyses
