@@ -55,7 +55,7 @@ Layer 3: Genomic scar characterization
 
 | # | Script | Purpose | Key Output |
 |---|--------|---------|------------|
-| NB1 | `Notebook1_Data_Acquisition.ipynb` | TCGA download, HRR filter, AM annotation | `annotated_hrr_variants.csv` |
+| NB1 | `Notebook1_Data_Acquisition.ipynb` | TCGA-PRAD download, HRR filter, AM annotation (prostate subset) | `annotated_hrr_variants.csv` (52 variants; pan-cancer data in `pancancer_hrr_variants.csv` from NB4) |
 | NB2 | `Notebook2_Concordance_VUS.ipynb` | ClinVar κ, VUS reclassification | `concordance_results.csv` |
 | NB3 | `Notebook3_mCRPC_Validation.py` | MSK-IMPACT external validation (negative) | `mcrpc_validation_results.csv` |
 | NB4 | `Notebook4_PanCancer_Survival.ipynb` | 31-tumor Cox, LOH, HRDsum, meta-analysis | `pancancer_hrr_variants.csv` |
