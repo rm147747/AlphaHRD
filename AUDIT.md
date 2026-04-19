@@ -43,7 +43,8 @@ with explicit documentation of data provenance, decisions, and limitations.
 ### 2. Stage adjustment with complete-case analysis (NB7, Analysis 2)
 **Decision:** Complete-case analysis (patients with available stage data only).
 **Justification:** 30% of patients lack AJCC stage data. Multiple imputation was considered but not pursued because (a) the primary analysis is associative, not causal, (b) the missing mechanism may be MNAR (some tumor types do not use AJCC staging), and (c) the complete-case sensitivity analysis is more conservative.
-**Impact:** Reduced sample size (1,883 → 1,311) widened confidence intervals and contributed to loss of significance. The HR direction was preserved (0.87 < 1.0).
+Sample size in complete-case analysis: 1,311 of 1,883 (70%). 
+HR direction preserved (0.87).
 
 ### 3. RMST truncation points (NB7, Analysis 3)
 **Decision:** Three tau values: 60 months (5 years, clinical standard), 81 months (90th percentile of observed follow-up), 120 months (10 years).
@@ -62,11 +63,13 @@ with explicit documentation of data provenance, decisions, and limitations.
 
 | Finding | Implication |
 |---------|------------|
-| Stage adjustment attenuates HR to 0.87 (p=0.156) | Confounding by stage is real |
-| E-value = 1.80 (CI bound 1.31) | Moderate robustness to unmeasured confounding |
-| BRCA1 methylation does not differ by AM group | Pipeline captures different HRD pathway |
-| Somatic-only carriers: HR=0.914 (p=0.333) | No survival benefit for somatic HRR variants |
-| mCRPC validation: opposite direction (HR=1.15) | Referral bias in advanced cohort |
+| Finding | Value |
+|---------|-------|
+| Stage-adjusted Cox | HR = 0.87 (p = 0.156) |
+| E-value (pan-cancer) | 1.64 |
+| BRCA1 methylation vs AM group | No difference (p = 0.66) |
+| Somatic-only carriers | HR = 0.914 (p = 0.333) |
+| mCRPC external validation | HR = 1.15 |
 
 ## Reproducibility Checklist
 
